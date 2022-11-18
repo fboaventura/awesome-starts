@@ -20,7 +20,6 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [database](#database)
-- [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -42,7 +41,6 @@
 - [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
-- [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
 - [library](#library)
 - [linux](#linux)
@@ -52,7 +50,6 @@
 - [material-design](#material-design)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
-- [neural-network](#neural-network)
 - [nodejs](#nodejs)
 - [osint](#osint)
 - [others](#others)
@@ -63,12 +60,10 @@
 - [react](#react)
 - [ruby](#ruby)
 - [sass](#sass)
-- [scikit-learn](#scikit-learn)
 - [security](#security)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [typescript](#typescript)
@@ -146,10 +141,6 @@
 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-## deep-learning 
-
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 
 ## deployment 
 
@@ -271,10 +262,6 @@
 
 - [mathiasbynens/jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.
 
-## jupyter-notebook 
-
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
-
 ## kubernetes 
 
 - [guerzon/bitwarden-kubernetes](https://github.com/guerzon/bitwarden-kubernetes) - Deploy Bitwarden in Kubernetes using the bitwarden_rs Rust-based server implementation
@@ -299,7 +286,6 @@
 
 ## machine-learning 
 
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
 
 ## macos 
@@ -324,10 +310,6 @@
 
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 
-## neural-network 
-
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
-
 ## nodejs 
 
 - [RichardSilveira/sls-aws-nodejs-typescript-docker](https://github.com/RichardSilveira/sls-aws-nodejs-typescript-docker) - A professional serverless framework template for the stack AWS, Node.js, Typescript and Docker
@@ -340,7 +322,8 @@
 
 ## others 
 
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
+- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Unofficial HelmRelease search through awesome k8s-at-home projects
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API to calculate distance between multiple CEPs.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -429,7 +412,6 @@
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [sjkingo/python-freshdesk](https://github.com/sjkingo/python-freshdesk) - An API for the Freshdesk helpdesk
@@ -461,10 +443,6 @@
 
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 
-## scikit-learn 
-
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
-
 ## security 
 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
@@ -486,10 +464,6 @@
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
-
-## tensorflow 
-
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 
 ## terminal 
 
