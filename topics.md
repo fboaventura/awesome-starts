@@ -37,6 +37,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [js](#js)
@@ -64,6 +65,8 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [spring](#spring)
+- [spring-boot](#spring-boot)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [typescript](#typescript)
@@ -93,11 +96,13 @@
 
 ## aws 
 
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [RichardSilveira/sls-aws-nodejs-typescript-docker](https://github.com/RichardSilveira/sls-aws-nodejs-typescript-docker) - A professional serverless framework template for the stack AWS, Node.js, Typescript and Docker
 
 ## azure 
 
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 
 ## bash 
@@ -152,6 +157,7 @@
 
 ## devops 
 
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
@@ -242,6 +248,10 @@
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
+
+## java 
+
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 
 ## javascript 
 
@@ -464,6 +474,14 @@
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
+
+## spring 
+
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
+
+## spring-boot 
+
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 
 ## terminal 
 
