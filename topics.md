@@ -17,6 +17,7 @@
 - [c](#c)
 - [chrome](#chrome)
 - [cli](#cli)
+- [code-review](#code-review)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [database](#database)
@@ -117,6 +118,7 @@
 
 ## bot 
 
+- [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 
 ## c 
@@ -131,6 +133,10 @@
 
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
+
+## code-review 
+
+- [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 
 ## css 
 
@@ -206,6 +212,8 @@
 
 ## golang 
 
+- [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
+- [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
