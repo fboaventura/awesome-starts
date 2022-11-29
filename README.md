@@ -54,6 +54,7 @@
 
 ## Dockerfile 
 
+- [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
 - [docker-archive/minecraft](https://github.com/docker-archive/minecraft) - Minecraft Dockerfile used in Kitematic
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [JasonRivers/Docker-Nagios](https://github.com/JasonRivers/Docker-Nagios) - Docker image for Nagios
@@ -184,6 +185,7 @@
 
 ## Ruby 
 
+- [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
 - [fixerAPI/fixer](https://github.com/fixerAPI/fixer) - A foreign exchange rates and currency conversion API
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
