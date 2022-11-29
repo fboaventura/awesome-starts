@@ -340,6 +340,8 @@
 
 ## others 
 
+- [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
+- [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Unofficial HelmRelease search through awesome k8s-at-home projects
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API to calculate distance between multiple CEPs.
