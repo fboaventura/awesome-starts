@@ -88,6 +88,7 @@
 
 ## ansible 
 
+- [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [T-Systems-MMS/ansible-collection-icinga-director](https://github.com/T-Systems-MMS/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
 
@@ -320,6 +321,7 @@
 
 ## monitoring 
 
+- [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -340,6 +342,7 @@
 
 ## others 
 
+- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
 - [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Unofficial HelmRelease search through awesome k8s-at-home projects
