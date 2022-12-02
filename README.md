@@ -11,6 +11,7 @@
 - [D](#d)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -81,6 +82,10 @@
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 
+## HCL 
+
+- [marcosborges/terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) - This module proposes a simple and uncomplicated way to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
+
 ## HTML 
 
 - [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
@@ -119,6 +124,7 @@
 
 ## Others 
 
+- [Evalle/DCA](https://github.com/Evalle/DCA) - Docker Certified Associate Exam Preparation Guide
 - [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [guerzon/bitwarden-kubernetes](https://github.com/guerzon/bitwarden-kubernetes) - Deploy Bitwarden in Kubernetes using the bitwarden_rs Rust-based server implementation
 - [ranman/awesome-sns](https://github.com/ranman/awesome-sns) - A curated list of useful SNS topics
@@ -151,6 +157,8 @@
 
 ## Python 
 
+- [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [T-Systems-MMS/ansible-collection-icinga-director](https://github.com/T-Systems-MMS/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
