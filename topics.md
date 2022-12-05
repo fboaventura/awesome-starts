@@ -9,6 +9,7 @@
 - [android](#android)
 - [ansible](#ansible)
 - [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
@@ -94,7 +95,12 @@
 
 ## awesome 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+## awesome-list 
+
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## aws 
 
@@ -234,6 +240,7 @@
 
 ## hacktoberfest 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [T-Systems-MMS/ansible-collection-icinga-director](https://github.com/T-Systems-MMS/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
