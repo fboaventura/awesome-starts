@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -93,6 +94,10 @@
 - [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [T-Systems-MMS/ansible-collection-icinga-director](https://github.com/T-Systems-MMS/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
+
+## automation 
+
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
 ## awesome 
 
