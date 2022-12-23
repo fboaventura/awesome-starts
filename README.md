@@ -105,7 +105,7 @@
 
 ## JavaScript 
 
-- [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API to calculate distance between multiple CEPs.
+- [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API template to calculate distance between multiple CEPs.
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [pviswanathan/ChromeAutoTextExpander](https://github.com/pviswanathan/ChromeAutoTextExpander) - Google Chrome Extension : Auto Text Expander - listens for keypresses on pages that support it and will auto-replace text as you type. Keywords: javascript jquery chrome text expander replacement.
