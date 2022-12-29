@@ -210,6 +210,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
