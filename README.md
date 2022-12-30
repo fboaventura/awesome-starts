@@ -64,6 +64,9 @@
 
 ## Go 
 
+- [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
+- [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [keybase/bot-sshca](https://github.com/keybase/bot-sshca) - A chat bot that can manage your team's SSH accounts
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
@@ -126,6 +129,9 @@
 
 ## Others 
 
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
+- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [Evalle/DCA](https://github.com/Evalle/DCA) - Docker Certified Associate Exam Preparation Guide
 - [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [guerzon/bitwarden-kubernetes](https://github.com/guerzon/bitwarden-kubernetes) - Deploy Bitwarden in Kubernetes using the bitwarden_rs Rust-based server implementation
@@ -139,6 +145,7 @@
 
 ## PHP 
 
+- [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [CampbellSoftwareSolutions/docker-osticket](https://github.com/CampbellSoftwareSolutions/docker-osticket) - Run OSTicket in a docker container with nginx & PHP-FPM
 - [eelkevdbos/openexchangerates-php](https://github.com/eelkevdbos/openexchangerates-php) - OpenExchangeRates.org API Wrapper in PHP
@@ -159,6 +166,11 @@
 
 ## Python 
 
+- [hjones20/fundamental-analysis](https://github.com/hjones20/fundamental-analysis) - Screen stocks on fundamentals and estimate their intrinsic value
+- [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
+- [MagnumDingusEdu/SocksBin](https://github.com/MagnumDingusEdu/SocksBin) - A command line pastebin, written in python
+- [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -210,6 +222,7 @@
 
 ## Shell 
 
+- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
