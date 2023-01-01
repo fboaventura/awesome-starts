@@ -166,6 +166,7 @@
 
 ## Python 
 
+- [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [hjones20/fundamental-analysis](https://github.com/hjones20/fundamental-analysis) - Screen stocks on fundamentals and estimate their intrinsic value
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [MagnumDingusEdu/SocksBin](https://github.com/MagnumDingusEdu/SocksBin) - A command line pastebin, written in python
