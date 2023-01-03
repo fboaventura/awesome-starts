@@ -408,6 +408,8 @@
 
 ## others 
 
+- [Ianyliu/blast-radius-fork](https://github.com/Ianyliu/blast-radius-fork) - Interactive visualizations of Terraform dependency graphs using d3.js
+- [sorend/sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [hjones20/fundamental-analysis](https://github.com/hjones20/fundamental-analysis) - Screen stocks on fundamentals and estimate their intrinsic value
 - [MagnumDingusEdu/SocksBin](https://github.com/MagnumDingusEdu/SocksBin) - A command line pastebin, written in python
@@ -417,7 +419,7 @@
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
 - [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
-- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Unofficial HelmRelease search through awesome k8s-at-home projects
+- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - HelmRelease search through awesome k8s-at-home projects
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API template to calculate distance between multiple CEPs.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
