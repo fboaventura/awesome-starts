@@ -108,6 +108,7 @@
 
 ## JavaScript 
 
+- [Ianyliu/blast-radius-fork](https://github.com/Ianyliu/blast-radius-fork) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API template to calculate distance between multiple CEPs.
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
@@ -166,6 +167,7 @@
 
 ## Python 
 
+- [sorend/sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [hjones20/fundamental-analysis](https://github.com/hjones20/fundamental-analysis) - Screen stocks on fundamentals and estimate their intrinsic value
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
@@ -254,7 +256,7 @@
 
 ## TypeScript 
 
-- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Unofficial HelmRelease search through awesome k8s-at-home projects
+- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - HelmRelease search through awesome k8s-at-home projects
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [allamgr/portafolio](https://github.com/allamgr/portafolio) - React library designed to generate your personal portfolio and publish it on your GitHub site.
 - [RichardSilveira/sls-aws-nodejs-typescript-docker](https://github.com/RichardSilveira/sls-aws-nodejs-typescript-docker) - A professional serverless framework template for the stack AWS, Node.js, Typescript and Docker
