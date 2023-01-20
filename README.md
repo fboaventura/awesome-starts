@@ -114,6 +114,8 @@
 
 ## JavaScript 
 
+- [DarrenRiedlinger/glucose-tracker](https://github.com/DarrenRiedlinger/glucose-tracker) - A simple web application for keeping tracking of blood glucose levels.  Written in Python using the Django framework.
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [Ianyliu/blast-radius-fork](https://github.com/Ianyliu/blast-radius-fork) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [vnsmoreira/api-distancep](https://github.com/vnsmoreira/api-distancep) - An easy-to-use and free API template to calculate distance between multiple CEPs.
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
@@ -136,6 +138,8 @@
 
 ## Others 
 
+- [pyguy/lpi-devops-study](https://github.com/pyguy/lpi-devops-study) - DevOps Tools Engineer - LPI Blog
+- [whatwedo/docker-base-images](https://github.com/whatwedo/docker-base-images) - Dockerfiles to all docker base images we use at whatwedo
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
@@ -235,6 +239,7 @@
 
 ## Shell 
 
+- [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
