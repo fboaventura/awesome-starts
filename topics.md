@@ -9,6 +9,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [ansible](#ansible)
+- [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -104,6 +105,10 @@
 - [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
 - [T-Systems-MMS/ansible-collection-icinga-director](https://github.com/T-Systems-MMS/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
+
+## api 
+
+- [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
 
 ## automation 
 
@@ -527,6 +532,7 @@
 
 ## python 
 
+- [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
