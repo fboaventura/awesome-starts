@@ -429,6 +429,7 @@
 
 ## others 
 
+- [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [DarrenRiedlinger/glucose-tracker](https://github.com/DarrenRiedlinger/glucose-tracker) - A simple web application for keeping tracking of blood glucose levels.  Written in Python using the Django framework.
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
