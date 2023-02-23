@@ -180,6 +180,7 @@
 
 ## Python 
 
+- [netson/ansible-gpg-key](https://github.com/netson/ansible-gpg-key) - Module to manage GPG keys from files and keyservers.
 - [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
 - [sorend/sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
