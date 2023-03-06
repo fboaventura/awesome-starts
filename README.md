@@ -218,7 +218,7 @@
 - [tozny/rancher-lets-encrypt](https://github.com/tozny/rancher-lets-encrypt) - Automatically create and manage certificates in Rancher using Let's Encrypt webroot verification via a minimal service
 - [datasets/country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [autokey/autokey-python2](https://github.com/autokey/autokey-python2) - Legacy Python 2 version of AutoKey, the desktop automation utility for Linux and X11.
 - [ustream/openduty](https://github.com/ustream/openduty) - An open source Alerting and incident escalation tool
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
