@@ -278,7 +278,7 @@
 ## TypeScript 
 
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
-- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - HelmRelease search through awesome k8s-at-home projects
+- [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [allamgr/portafolio](https://github.com/allamgr/portafolio) - React library designed to generate your personal portfolio and publish it on your GitHub site.
 - [RichardSilveira/sls-aws-nodejs-typescript-docker](https://github.com/RichardSilveira/sls-aws-nodejs-typescript-docker) - A professional serverless framework template for the stack AWS, Node.js, Typescript and Docker
