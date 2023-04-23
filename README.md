@@ -210,7 +210,7 @@
 - [hotzenklotz/WhoIsHome](https://github.com/hotzenklotz/WhoIsHome) - A simple Python script that monitors your network and notifies you about people joining and leaving it on Slack.
 - [rowinggolfer/openmolar1](https://github.com/rowinggolfer/openmolar1) - Dental Practice Management Software.
 - [jagter/python-uptimerobot](https://github.com/jagter/python-uptimerobot) - python-uptimerobot is an Uptime Robot http://uptimerobot.com integration for your Python project.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [olipo186/Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
