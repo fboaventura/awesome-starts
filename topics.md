@@ -63,6 +63,7 @@
 - [nodejs](#nodejs)
 - [osint](#osint)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
 - [python](#python)
@@ -520,6 +521,10 @@
 - [xelerance/xl2tpd](https://github.com/xelerance/xl2tpd) - Official Xelerance fork of L2TPd
 - [ngocvantran/7Pass](https://github.com/ngocvantran/7Pass) - KeePass reader for Windows Phone 7
 - [coredump/crisk](https://github.com/coredump/crisk) - A simple risk management tool
+
+## penetration-testing 
+
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 
 ## perl 
 
