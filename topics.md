@@ -151,6 +151,7 @@
 
 ## bash 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
@@ -301,6 +302,7 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [whatwedo/docker-base-images](https://github.com/whatwedo/docker-base-images) - Dockerfiles to all docker base images we use at whatwedo
 - [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
@@ -619,6 +621,7 @@
 
 ## shell 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
