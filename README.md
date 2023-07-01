@@ -240,7 +240,6 @@
 ## Ruby 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
 - [fixerAPI/fixer](https://github.com/fixerAPI/fixer) - A foreign exchange rates and currency conversion API
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
@@ -258,6 +257,7 @@
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
