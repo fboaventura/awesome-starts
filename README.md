@@ -192,6 +192,8 @@
 
 ## Python 
 
+- [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [netson/ansible-gpg-key](https://github.com/netson/ansible-gpg-key) - Module to manage GPG keys from files and keyservers.
 - [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
 - [sorend/sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python
