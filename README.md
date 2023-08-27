@@ -122,6 +122,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [DarrenRiedlinger/glucose-tracker](https://github.com/DarrenRiedlinger/glucose-tracker) - A simple web application for keeping tracking of blood glucose levels.  Written in Python using the Django framework.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [Ianyliu/blast-radius-fork](https://github.com/Ianyliu/blast-radius-fork) - Interactive visualizations of Terraform dependency graphs using d3.js
