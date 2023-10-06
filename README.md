@@ -195,6 +195,8 @@
 
 ## Python 
 
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [netson/ansible-gpg-key](https://github.com/netson/ansible-gpg-key) - Module to manage GPG keys from files and keyservers.
