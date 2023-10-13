@@ -103,7 +103,6 @@
 
 ## HTML 
 
-- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 
@@ -161,6 +160,7 @@
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [Evalle/DCA](https://github.com/Evalle/DCA) - Docker Certified Associate Exam Preparation Guide
+- [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [guerzon/bitwarden-kubernetes](https://github.com/guerzon/bitwarden-kubernetes) - Deploy Bitwarden in Kubernetes using the bitwarden_rs Rust-based server implementation
 - [ranman/awesome-sns](https://github.com/ranman/awesome-sns) - A curated list of useful SNS topics
 - [guiafoca/guiafoca](https://github.com/guiafoca/guiafoca) - Repositório Oficial do Guia Foca, e-book disponível gratuitamente em https://www.guiafoca.org
