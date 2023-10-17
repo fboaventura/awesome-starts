@@ -67,6 +67,7 @@
 - [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
+- [postgresql](#postgresql)
 - [python](#python)
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
@@ -563,6 +564,10 @@
 - [PHPOffice/PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
+
+## postgresql 
+
+- [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 
 ## python 
 
