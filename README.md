@@ -247,6 +247,7 @@
 
 ## Ruby 
 
+- [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [adambutler/kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.
 - [fixerAPI/fixer](https://github.com/fixerAPI/fixer) - A foreign exchange rates and currency conversion API
