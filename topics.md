@@ -84,6 +84,7 @@
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
+- [sqlite](#sqlite)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [twitter](#twitter)
@@ -671,6 +672,10 @@
 ## spring-boot 
 
 - [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
+
+## sqlite 
+
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 
 ## terminal 
 
