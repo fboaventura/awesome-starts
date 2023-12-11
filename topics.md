@@ -69,6 +69,7 @@
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
@@ -578,6 +579,11 @@
 ## postgresql 
 
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
+
+## privacy 
+
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 
 ## python 
 
