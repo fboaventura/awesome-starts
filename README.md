@@ -125,7 +125,7 @@
 - [DarrenRiedlinger/glucose-tracker](https://github.com/DarrenRiedlinger/glucose-tracker) - A simple web application for keeping tracking of blood glucose levels.  Written in Python using the Django framework.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [Ianyliu/blast-radius-fork](https://github.com/Ianyliu/blast-radius-fork) - Interactive visualizations of Terraform dependency graphs using d3.js
-- [vnsmoreira/get-route](https://github.com/vnsmoreira/get-route) - A simple utility to calculate route between multiple CEPs.
+- [vnsmoreira/get-route](https://github.com/vnsmoreira/get-route) - A simple utility to calculate route between addresses
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [pviswanathan/ChromeAutoTextExpander](https://github.com/pviswanathan/ChromeAutoTextExpander) - Google Chrome Extension : Auto Text Expander - listens for keypresses on pages that support it and will auto-replace text as you type. Keywords: javascript jquery chrome text expander replacement.
