@@ -168,6 +168,7 @@
 - [noembryo/KV4Jetbrains](https://github.com/noembryo/KV4Jetbrains) - Syntax highlighting and auto-completion for Kivy/KivyMD .kv files in PyCharm/Intellij IDEA
 - [jamessharp/docker-nginx-https-redirect](https://github.com/jamessharp/docker-nginx-https-redirect) - A simple nginx container that redirects all http requests to https
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [daball/FreeRDP-RemoteApp-IntegrationScripts](https://github.com/daball/FreeRDP-RemoteApp-IntegrationScripts) - These are RemoteApp integration scripts intended to help run Windows Remote Desktop Services RemoteApp programs via FreeRDP.
 
@@ -284,7 +285,6 @@
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
-- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
 - [jjethwa/icinga2-slack-notification](https://github.com/jjethwa/icinga2-slack-notification) - 
 - [armstrong/puppet-celery](https://github.com/armstrong/puppet-celery) - Celery in your Puppets
 - [greyltc/docker-owncloud](https://github.com/greyltc/docker-owncloud) - Arch linux based docker container with owncloud
