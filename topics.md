@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
+- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [automation](#automation)
@@ -110,6 +111,10 @@
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+## angular 
+
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 ## ansible 
 
@@ -233,6 +238,7 @@
 
 ## django 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 
 ## docker 
@@ -412,6 +418,7 @@
 
 ## machine-learning 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
 
 ## macos 
@@ -461,7 +468,6 @@
 ## others 
 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) - Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [netson/ansible-gpg-key](https://github.com/netson/ansible-gpg-key) - Module to manage GPG keys from files and keyservers.
