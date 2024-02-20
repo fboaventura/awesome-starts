@@ -154,6 +154,7 @@
 
 ## Others 
 
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [rhiokim/docker-icons](https://github.com/rhiokim/docker-icons) - :whale: drawing docker icon
 - [pyguy/lpi-devops-study](https://github.com/pyguy/lpi-devops-study) - DevOps Tools Engineer - LPI Blog
 - [whatwedo/docker-base-images](https://github.com/whatwedo/docker-base-images) - Dockerfiles to all docker base images we use at whatwedo
