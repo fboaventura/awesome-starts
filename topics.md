@@ -140,7 +140,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 ## awesome-list 
 
@@ -605,7 +605,7 @@
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
