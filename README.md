@@ -267,6 +267,7 @@
 
 ## Shell 
 
+- [UbuntuForums/system-info](https://github.com/UbuntuForums/system-info) - 
 - [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) - Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
