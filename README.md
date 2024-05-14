@@ -433,6 +433,7 @@
 
 ## linux 
 
+- [vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response) - practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [guiafoca/guiafoca](https://github.com/guiafoca/guiafoca) - Repositório Oficial do Guia Foca, e-book disponível gratuitamente em https://www.guiafoca.org
