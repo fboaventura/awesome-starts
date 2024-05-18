@@ -299,6 +299,7 @@
 
 ## git 
 
+- [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
 
