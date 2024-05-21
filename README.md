@@ -497,6 +497,7 @@
 
 ## others 
 
+- [samknight/slack_applescript](https://github.com/samknight/slack_applescript) - AppleScript bundle for Slack methods
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [UbuntuForums/system-info](https://github.com/UbuntuForums/system-info) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
