@@ -239,6 +239,7 @@
 
 ## devops 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [pyToshka/docker-wazuh-agent](https://github.com/pyToshka/docker-wazuh-agent) - Monitoring a Kubernetes cluster involves deploying and utilizing the Wazuh agent within the Kubernetes environment.
 - [pyguy/lpi-devops-study](https://github.com/pyguy/lpi-devops-study) - DevOps Tools Engineer - LPI Blog
@@ -311,6 +312,7 @@
 
 ## go 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -322,6 +324,7 @@
 
 ## golang 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
@@ -470,6 +473,7 @@
 
 ## monitoring 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [pyToshka/docker-wazuh-agent](https://github.com/pyToshka/docker-wazuh-agent) - Monitoring a Kubernetes cluster involves deploying and utilizing the Wazuh agent within the Kubernetes environment.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
@@ -668,6 +672,7 @@
 
 ## react 
 
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [allamgr/portafolio](https://github.com/allamgr/portafolio) - React library designed to generate your personal portfolio and publish it on your GitHub site.
 
 ## rest-api 
