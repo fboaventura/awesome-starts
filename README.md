@@ -520,7 +520,7 @@
 - [sorend/sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [hjones20/fundamental-analysis](https://github.com/hjones20/fundamental-analysis) - Screen stocks on fundamentals and estimate their intrinsic value
-- [MagnumDingusEdu/SocksBin](https://github.com/MagnumDingusEdu/SocksBin) - A command line pastebin, written in python
+- [mariyabytes/SocksBin](https://github.com/mariyabytes/SocksBin) - A command line pastebin, written in python
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [keybase/bot-sshca](https://github.com/keybase/bot-sshca) - A chat bot that can manage your team's SSH accounts
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
