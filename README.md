@@ -20,6 +20,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [cli](#cli)
 - [code-review](#code-review)
@@ -197,6 +198,10 @@
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+## c-plus-plus 
+
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 
 ## chrome 
 
