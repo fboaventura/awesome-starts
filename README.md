@@ -22,6 +22,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
@@ -213,6 +214,11 @@
 ## c-plus-plus 
 
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+## chatbot 
+
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
+- [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 
 ## chatgpt 
 
