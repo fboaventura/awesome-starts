@@ -581,6 +581,9 @@
 
 ## others 
 
+- [loft-sh/devspace-containers](https://github.com/loft-sh/devspace-containers) - 
+- [loft-sh/devpod-templates](https://github.com/loft-sh/devpod-templates) - Collection of devcontainer json files.
+- [loft-sh/devpod-provider-kubernetes](https://github.com/loft-sh/devpod-provider-kubernetes) - DevPod on Kubernetes
 - [pedrorito/ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - 🤖 A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
 - [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address - very fast!
 - [cloudposse/terraform-aws-ssm-patch-manager](https://github.com/cloudposse/terraform-aws-ssm-patch-manager) - Terraform module to provision AWS SSM Patch Manager maintenance window tasks, targets, patch baseline, patch groups and an s3 bucket for storing patch task logs
