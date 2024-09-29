@@ -607,6 +607,7 @@
 
 ## others 
 
+- [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
 - [cloudposse/terraform-aws-ecs-cluster](https://github.com/cloudposse/terraform-aws-ecs-cluster) - Terraform module for provisioning an ECS cluster
 - [cloudposse/terraform-aws-managed-prometheus](https://github.com/cloudposse/terraform-aws-managed-prometheus) - 
 - [cloudposse/terraform-aws-lambda-function](https://github.com/cloudposse/terraform-aws-lambda-function) - A module for launching Lambda Fuctions
