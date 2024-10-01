@@ -607,6 +607,7 @@
 
 ## others 
 
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
 - [cloudposse/terraform-aws-ecs-cluster](https://github.com/cloudposse/terraform-aws-ecs-cluster) - Terraform module for provisioning an ECS cluster
 - [cloudposse/terraform-aws-managed-prometheus](https://github.com/cloudposse/terraform-aws-managed-prometheus) - 
