@@ -323,6 +323,7 @@
 
 ## Shell 
 
+- [kamuridesu/oracle-k3s-deploy](https://github.com/kamuridesu/oracle-k3s-deploy) - Script to create VMs and deploy K3s to Oracle using free resources
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [loft-sh/devspace-containers](https://github.com/loft-sh/devspace-containers) - 
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
