@@ -636,6 +636,7 @@
 
 ## others 
 
+- [kamuridesu/oracle-k3s-deploy](https://github.com/kamuridesu/oracle-k3s-deploy) - Script to create VMs and deploy K3s to Oracle using free resources
 - [piontec/free-oci-kubernetes](https://github.com/piontec/free-oci-kubernetes) - A TerraForm and Flux 2.0 template to easily bootstrap a GitOps managed kubernetes cluster using OCI's free tier
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
