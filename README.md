@@ -26,6 +26,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code-review](#code-review)
 - [coding](#coding)
 - [config](#config)
@@ -269,6 +270,10 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 
+## clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
 ## code-review 
 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -306,6 +311,7 @@
 
 ## design 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 
 ## devops 
