@@ -171,7 +171,7 @@
 - [mkaminsky11/codeyourcloud](https://github.com/mkaminsky11/codeyourcloud) - In browser code editor for Google Drive and Onedrive
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
-- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [mathiasbynens/jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.
 
 ## Jinja 
