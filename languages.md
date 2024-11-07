@@ -55,7 +55,6 @@
 
 - [fwbuilder/fwbuilder](https://github.com/fwbuilder/fwbuilder) - A clone of the SourceForge fwbuilder repostiory
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 
 ## Clojure 
@@ -217,6 +216,7 @@
 - [jamessharp/docker-nginx-https-redirect](https://github.com/jamessharp/docker-nginx-https-redirect) - A simple nginx container that redirects all http requests to https
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
+- [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [daball/FreeRDP-RemoteApp-IntegrationScripts](https://github.com/daball/FreeRDP-RemoteApp-IntegrationScripts) - These are RemoteApp integration scripts intended to help run Windows Remote Desktop Services RemoteApp programs via FreeRDP.
 
