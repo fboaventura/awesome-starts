@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
@@ -152,6 +153,7 @@
 
 ## Java 
 
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [kuri65536/sl4a](https://github.com/kuri65536/sl4a) - Scripting environment for Android platform
 
