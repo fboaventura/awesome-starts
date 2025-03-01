@@ -77,6 +77,9 @@
 
 ## Go 
 
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -116,6 +119,7 @@
 
 ## HCL 
 
+- [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 - [piontec/free-oci-kubernetes](https://github.com/piontec/free-oci-kubernetes) - A TerraForm and Flux 2.0 template to easily bootstrap a GitOps managed kubernetes cluster using OCI's free tier
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
 - [cloudposse/terraform-aws-ecs-cluster](https://github.com/cloudposse/terraform-aws-ecs-cluster) - Terraform module for provisioning an ECS cluster
@@ -325,6 +329,7 @@
 
 ## Rust 
 
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 
@@ -375,6 +380,7 @@
 
 ## TypeScript 
 
+- [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [mehmetcanfarsak/country-codes-flags-phone-codes](https://github.com/mehmetcanfarsak/country-codes-flags-phone-codes) - 🏳 Easily access country codes, flags and phone codes
