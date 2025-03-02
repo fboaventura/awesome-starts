@@ -339,6 +339,7 @@
 
 ## Shell 
 
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [kamuridesu/oracle-k3s-deploy](https://github.com/kamuridesu/oracle-k3s-deploy) - Script to create VMs and deploy K3s to Oracle using free resources
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [loft-sh/devspace-containers](https://github.com/loft-sh/devspace-containers) - 
