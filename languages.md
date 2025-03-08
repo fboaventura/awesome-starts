@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [D](#d)
 - [Dockerfile](#dockerfile)
@@ -57,6 +58,10 @@
 - [fwbuilder/fwbuilder](https://github.com/fwbuilder/fwbuilder) - A clone of the SourceForge fwbuilder repostiory
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+## CSS 
+
+- [TROUBLE-1/Vajra](https://github.com/TROUBLE-1/Vajra) - Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure and AWS environment. It features an intuitive web-based user interface built with the Python Flask
 
 ## Clojure 
 
@@ -382,6 +387,7 @@
 
 ## TypeScript 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
