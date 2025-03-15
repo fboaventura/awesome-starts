@@ -265,6 +265,7 @@
 
 ## Python 
 
+- [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
 - [malwaredojo/loki](https://github.com/malwaredojo/loki) - Command Line Sock Puppet Creator for Investigators.
 - [redhuntlabs/antisquat](https://github.com/redhuntlabs/antisquat) - 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
