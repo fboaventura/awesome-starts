@@ -732,6 +732,7 @@
 
 ## others 
 
+- [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules, simulate logs, and undertake various security tasks, all
 - [redhuntlabs/antisquat](https://github.com/redhuntlabs/antisquat) - 
 - [Rannden-SHA/EnumeRannden](https://github.com/Rannden-SHA/EnumeRannden) - A comprehensive automation script for penetration testing and reconnaissance.
