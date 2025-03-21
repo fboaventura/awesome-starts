@@ -611,6 +611,7 @@
 
 ## kubernetes 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -994,6 +995,7 @@
 
 ## security 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
