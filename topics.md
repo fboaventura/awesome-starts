@@ -382,6 +382,7 @@
 
 ## docker 
 
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
@@ -750,6 +751,7 @@
 
 ## others 
 
+- [mitre-public/open-aria](https://github.com/mitre-public/open-aria) - An open-source edition of the Aviation Risk Identification and Assessment (ARIA)
 - [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules, simulate logs, and undertake various security tasks, all
 - [redhuntlabs/antisquat](https://github.com/redhuntlabs/antisquat) - 
@@ -995,6 +997,7 @@
 
 ## security 
 
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
