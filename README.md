@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [algorithm](#algorithm)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -32,16 +33,21 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [computer-science](#computer-science)
 - [config](#config)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [data-structures](#data-structures)
 - [database](#database)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [education](#education)
 - [emoji](#emoji)
 - [es6](#es6)
 - [finance](#finance)
@@ -52,6 +58,7 @@
 - [frontend](#frontend)
 - [git](#git)
 - [github](#github)
+- [github-config](#github-config)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -61,6 +68,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -83,6 +91,7 @@
 - [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -137,6 +146,10 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 
+## algorithm 
+
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ## analytics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -163,6 +176,7 @@
 
 ## api 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API
 - [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
 
@@ -183,6 +197,7 @@
 
 ## awesome 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -197,6 +212,7 @@
 
 ## awesome-list 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -268,11 +284,13 @@
 
 ## c 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 
 ## c-plus-plus 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 
 ## chatbot 
@@ -318,12 +336,21 @@
 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
+## computer-science 
+
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ## config 
 
 - [config-ninja/config-ninja](https://github.com/config-ninja/config-ninja) - Manage your system configuration files in the cloud
 
+## csharp 
+
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
+
 ## css 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
@@ -332,13 +359,19 @@
 
 ## cybersecurity 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 
+## data-structures 
+
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ## database 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -349,6 +382,7 @@
 
 ## design 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 
@@ -372,6 +406,10 @@
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+
+## discord 
+
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 
 ## django 
 
@@ -410,12 +448,17 @@
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
+## education 
+
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+
 ## emoji 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## es6 
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
 ## finance 
@@ -447,13 +490,19 @@
 
 ## git 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [made2591/funny-commit](https://github.com/made2591/funny-commit) - Funny Commit is a really simple bash script that gets whatthecommit.com website commit message and creates a git commit with an always-changing funny text for you.
 
 ## github 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
+
+## github-config 
+
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 
 ## go 
 
@@ -496,6 +545,7 @@
 
 ## hacking 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
@@ -553,13 +603,19 @@
 
 ## html 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 
+## html-css-javascript 
+
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
+
 ## html5 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 
@@ -583,10 +639,14 @@
 
 ## java 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 
 ## javascript 
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -604,6 +664,7 @@
 
 ## js 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
 ## json 
@@ -635,6 +696,7 @@
 
 ## linux 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -712,6 +774,10 @@
 
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
+## no-code 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## node 
 
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -733,6 +799,7 @@
 
 ## open-source 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 
 ## openai 
@@ -741,6 +808,7 @@
 
 ## osint 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [malwaredojo/loki](https://github.com/malwaredojo/loki) - Command Line Sock Puppet Creator for Investigators.
@@ -878,6 +946,7 @@
 
 ## pentesting 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -894,6 +963,7 @@
 
 ## php 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [smarty-php/smarty](https://github.com/smarty-php/smarty) - Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.
@@ -917,10 +987,14 @@
 
 ## programming 
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
 ## python 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [malwaredojo/loki](https://github.com/malwaredojo/loki) - Command Line Sock Puppet Creator for Investigators.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [indico/indico](https://github.com/indico/indico) - Indico - A feature-rich event management system, made @ CERN, the place where the Web was born.
@@ -949,6 +1023,7 @@
 
 ## python3 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [malwaredojo/loki](https://github.com/malwaredojo/loki) - Command Line Sock Puppet Creator for Investigators.
 - [TROUBLE-1/Vajra](https://github.com/TROUBLE-1/Vajra) - Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure and AWS environment. It features an intuitive web-based user interface built with the Python Flask
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1063,6 +1138,7 @@
 
 ## software 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1077,6 +1153,7 @@
 
 ## sql 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 
 ## sqlite 
@@ -1149,6 +1226,7 @@
 
 ## web 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -1156,6 +1234,7 @@
 
 ## webapp 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [cloudposse/terraform-aws-ecs-web-app](https://github.com/cloudposse/terraform-aws-ecs-web-app) - Terraform module that implements a web app on ECS and supports autoscaling, CI/CD, monitoring, ALB integration, and much more.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
@@ -1169,6 +1248,7 @@
 
 ## windows 
 
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
