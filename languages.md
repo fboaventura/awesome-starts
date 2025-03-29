@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [4D](#4d)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -38,6 +39,10 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+
+## 4D 
+
+- [mesopelagique/OpenIn](https://github.com/mesopelagique/OpenIn) - macro on macOS to open the current projet or method into some apps
 
 ## Blade 
 
@@ -286,6 +291,9 @@
 
 ## Python 
 
+- [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [0xbinder/CVE-2024-0044](https://github.com/0xbinder/CVE-2024-0044) - CVE-2024-0044:  a "run-as any app" high-severity vulnerability affecting Android versions 12 and 13
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
