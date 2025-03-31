@@ -232,6 +232,7 @@
 
 ## Others 
 
+- [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
