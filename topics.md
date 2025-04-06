@@ -141,6 +141,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -547,6 +548,7 @@
 
 ## golang 
 
+- [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 - [caas-team/GoKubeDownscaler](https://github.com/caas-team/GoKubeDownscaler) - A horizontal autoscaler for Kubernetes workloads
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
@@ -572,6 +574,7 @@
 
 ## hacking 
 
+- [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
@@ -735,6 +738,7 @@
 
 ## linux 
 
+- [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
@@ -813,7 +817,7 @@
 
 ## nextjs 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## no-code 
 
@@ -863,6 +867,7 @@
 
 ## others 
 
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [mesopelagique/OpenIn](https://github.com/mesopelagique/OpenIn) - macro on macOS to open the current projet or method into some apps
 - [0xbinder/CVE-2024-0044](https://github.com/0xbinder/CVE-2024-0044) - CVE-2024-0044:  a "run-as any app" high-severity vulnerability affecting Android versions 12 and 13
@@ -1000,6 +1005,7 @@
 
 ## pentesting 
 
+- [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
@@ -1111,7 +1117,7 @@
 
 ## react-native 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## reactjs 
 
@@ -1142,6 +1148,7 @@
 
 ## security 
 
+- [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -1168,6 +1175,8 @@
 
 ## security-tools 
 
+- [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
+- [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 - [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [dbarzin/mercator](https://github.com/dbarzin/mercator) - Mapping the information system / Cartographie du système d'information
@@ -1186,7 +1195,7 @@
 ## self-hosted 
 
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React.
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
@@ -1301,6 +1310,10 @@
 
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+
+## vue 
+
+- [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 
 ## web 
 
