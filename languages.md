@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Wayback Machine OSINT Framework
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
