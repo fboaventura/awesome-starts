@@ -39,6 +39,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [YARA](#yara)
 
 ## 4D 
 
@@ -492,6 +493,10 @@
 
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
+
+## YARA 
+
+- [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool.
 
 
 ## License
