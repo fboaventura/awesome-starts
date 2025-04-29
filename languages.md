@@ -63,6 +63,7 @@
 
 ## C# # 
 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [ngocvantran/7Pass](https://github.com/ngocvantran/7Pass) - KeePass reader for Windows Phone 7
 
@@ -120,7 +121,6 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [aceberg/miniboard](https://github.com/aceberg/miniboard) - Lightweight dashboard with tabs, uptime monitoring and notifications
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -481,6 +481,7 @@
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [joshcanhelp/budget-cli](https://github.com/joshcanhelp/budget-cli) - Command-line budgeting software in TypeScript
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
