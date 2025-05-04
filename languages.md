@@ -312,6 +312,7 @@
 
 ## Python 
 
+- [rohitcoder/hawk-eye](https://github.com/rohitcoder/hawk-eye) - A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - 🔍 PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data. Built with Python and modern Qt.
