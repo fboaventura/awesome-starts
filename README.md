@@ -478,7 +478,7 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 
 ## docker 
@@ -821,6 +821,7 @@
 
 ## linux 
 
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -949,7 +950,6 @@
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
 
 ## openai 
 
@@ -976,6 +976,7 @@
 
 ## others 
 
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [bug-it/Zabbix-Storm](https://github.com/bug-it/Zabbix-Storm) - 🚀 Script automático para instalar Mysql + Zabbix + Grafana no Ubuntu 24.04 - desenvolvido por BUG IT.
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [felipeluan20/OSINTKit-Brasil](https://github.com/felipeluan20/OSINTKit-Brasil) - OSINTKit Brasil é um repositório de favoritos para investigação e inteligência de fontes abertas, reunindo centenas de ferramentas, serviços e plataformas úteis — cuidadosamente categorizadas e pronta
@@ -1213,7 +1214,7 @@
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [sjkingo/python-freshdesk](https://github.com/sjkingo/python-freshdesk) - An API for the Freshdesk helpdesk
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [ovh/python-ovh](https://github.com/ovh/python-ovh) - Thin wrapper around OVH's APIs. Handles all the hard work including credential creation and requests signing.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -1269,9 +1270,10 @@
 
 ## rust 
 
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - Secure, scalable mail & collaboration server with IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV support.
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1287,6 +1289,7 @@
 
 ## security 
 
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
@@ -1363,7 +1366,7 @@
 
 ## server 
 
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - Secure, scalable mail & collaboration server with IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV support.
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 
 ## serverless 
