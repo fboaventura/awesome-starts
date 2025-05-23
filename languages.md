@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -445,7 +446,7 @@
 ## Shell 
 
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
-- [bug-it/Zabbix-Storm](https://github.com/bug-it/Zabbix-Storm) - 🚀 Script automático para instalar Mysql + Zabbix + Grafana no Ubuntu 24.04 - desenvolvido por BUG IT.
+- [bug-it/AutoMZG](https://github.com/bug-it/AutoMZG) - 🚀 Script automático para instalar Mysql + Zabbix + Grafana no Ubuntu 24.04 - desenvolvido por BUG IT.
 - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
