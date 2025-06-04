@@ -977,6 +977,7 @@
 
 ## osint 
 
+- [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
@@ -1213,6 +1214,7 @@
 
 ## python 
 
+- [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [charles-001/dolphie](https://github.com/charles-001/dolphie) - Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
@@ -1520,6 +1522,7 @@
 
 ## web 
 
+- [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
