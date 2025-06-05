@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -294,7 +295,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyber fraud, account takeovers, fake accounts, bots, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application from cyberfraud, account threats, and abuse. Get started — free.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules, simulate logs, and undertake various security tasks, all
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
@@ -349,7 +350,7 @@
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking.
+- [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools) - RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Ethical Hacking. (For educational purposes only)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
