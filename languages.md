@@ -36,6 +36,7 @@
 - [Rust](#rust)
 - [SaltStack](#saltstack)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -299,7 +300,7 @@
 
 ## PHP 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open source user intelligence platform. Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules, simulate logs, and undertake various security tasks, all
 - [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
@@ -330,6 +331,7 @@
 
 ## Python 
 
+- [TheFirewall-code/TheFirewall-Secrets-SCA](https://github.com/TheFirewall-code/TheFirewall-Secrets-SCA) - 
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
@@ -504,6 +506,10 @@
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [hashicorp/puppet-bootstrap](https://github.com/hashicorp/puppet-bootstrap) - A collection of single-file scripts to bootstrap your machines with Puppet.
 - [funcoeszz/funcoeszz](https://github.com/funcoeszz/funcoeszz) - Funções ZZ — 180+ aplicativos para a linha de comando do Linux, Mac e Cygwin
+
+## Swift 
+
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 
 ## TeX 
 
