@@ -331,6 +331,8 @@
 
 ## Python 
 
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
+- [fr0gger/nova-framework](https://github.com/fr0gger/nova-framework) - NOVA: The Prompt Pattern Matching
 - [TheFirewall-code/TheFirewall-Secrets-SCA](https://github.com/TheFirewall-code/TheFirewall-Secrets-SCA) - 
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
