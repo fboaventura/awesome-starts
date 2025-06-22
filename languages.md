@@ -338,6 +338,7 @@
 
 ## Python 
 
+- [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
