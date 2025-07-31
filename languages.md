@@ -356,6 +356,7 @@
 
 ## Python 
 
+- [pablosnt/rekono](https://github.com/pablosnt/rekono) - Pentesting automation platform that combines hacking tools to complete assessments
 - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities.
 - [cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng) - A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and CTF players.
 - [WithSecureLabs/Kanvas](https://github.com/WithSecureLabs/Kanvas) - A simple-to-use IR (incident response) case management tool for tracking and documenting investigations.
