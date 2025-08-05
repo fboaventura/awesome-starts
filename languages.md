@@ -178,6 +178,7 @@
 
 ## HCL 
 
+- [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud
 - [iamgabs/cloud-run-python-template](https://github.com/iamgabs/cloud-run-python-template) - A cloud run template for python web appications using FastAPI and UV
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 - [piontec/free-oci-kubernetes](https://github.com/piontec/free-oci-kubernetes) - A TerraForm and Flux 2.0 template to easily bootstrap a GitOps managed kubernetes cluster using OCI's free tier
@@ -234,6 +235,7 @@
 
 ## JavaScript 
 
+- [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
