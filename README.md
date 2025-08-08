@@ -271,6 +271,7 @@
 
 ## aws 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -299,6 +300,7 @@
 
 ## azure 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [TROUBLE-1/Vajra](https://github.com/TROUBLE-1/Vajra) - Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure and AWS environment. It features an intuitive web-based user interface built with the Python Flask
 - [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
@@ -488,6 +490,7 @@
 
 ## devops 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [akuity/argocd-mcp](https://github.com/akuity/argocd-mcp) - An implementation of Model Context Protocol (MCP) server for Argo CD.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -685,6 +688,7 @@
 
 ## google 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 
 ## hackathon 
@@ -1652,6 +1656,7 @@
 
 ## terraform 
 
+- [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud
 - [MNThomson/terraform-provider-dominos](https://github.com/MNThomson/terraform-provider-dominos) - 🎲🍕 The Terraform plugin for the Dominos Pizza provider
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
