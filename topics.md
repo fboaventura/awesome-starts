@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [chm0dx/creepyCrawler](https://github.com/chm0dx/creepyCrawler) - OSINT tool to crawl a site and extract useful recon info.
 - [digininja/CeWL](https://github.com/digininja/CeWL) - CeWL is a Custom Word List Generator
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab) - 
