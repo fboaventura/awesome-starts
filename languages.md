@@ -359,6 +359,7 @@
 
 ## PowerShell 
 
+- [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [LETHAL-FORENSICS/MemProcFS-Analyzer](https://github.com/LETHAL-FORENSICS/MemProcFS-Analyzer) - MemProcFS-Analyzer - Automated Forensic Analysis of Windows Memory Dumps for DFIR
 
