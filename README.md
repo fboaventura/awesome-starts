@@ -1127,6 +1127,7 @@
 
 ## others 
 
+- [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
 - [CyberCX-STA/PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
 - [chm0dx/creepyCrawler](https://github.com/chm0dx/creepyCrawler) - OSINT tool to crawl a site and extract useful recon info.
 - [digininja/CeWL](https://github.com/digininja/CeWL) - CeWL is a Custom Word List Generator
