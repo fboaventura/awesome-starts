@@ -671,6 +671,7 @@
 
 ## golang 
 
+- [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [viniciushammett/Golang-DevOps-SRE-Aplicado](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado) - Laboratório prático em Golang para DevOps/SRE, criando ferramentas próprias para monitoramento, observabilidade e automação. Diferencial: controle total, portabilidade, performance e segurança auditáv
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
