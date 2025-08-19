@@ -405,7 +405,7 @@
 - [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance su
 - [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) - Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
-- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [duty1g/subcat](https://github.com/duty1g/subcat) - Lightning-fast passive subdomain discovery tool for security professionals and bug bounty hunters.
 - [JackJuly/linkook](https://github.com/JackJuly/linkook) - 🔍 An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
