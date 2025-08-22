@@ -368,6 +368,7 @@
 
 ## Python 
 
+- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [chm0dx/creepyCrawler](https://github.com/chm0dx/creepyCrawler) - OSINT tool to crawl a site and extract useful recon info.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
