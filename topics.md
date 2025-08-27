@@ -274,6 +274,7 @@
 
 ## aws 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
@@ -303,6 +304,7 @@
 
 ## azure 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [TROUBLE-1/Vajra](https://github.com/TROUBLE-1/Vajra) - Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure and AWS environment. It features an intuitive web-based user interface built with the Python Flask
 - [in28minutes/course-material](https://github.com/in28minutes/course-material) - Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure.
@@ -506,6 +508,7 @@
 
 ## devops 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [viniciushammett/Golang-DevOps-SRE-Aplicado](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado) - Laboratório prático em Golang para DevOps/SRE, criando ferramentas próprias para monitoramento, observabilidade e automação. Diferencial: controle total, portabilidade, performance e segurança auditáv
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
@@ -763,6 +766,7 @@
 
 ## hacktoberfest 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
@@ -919,6 +923,7 @@
 
 ## kubernetes 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud
 - [cisagov/thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
@@ -1704,6 +1709,7 @@
 
 ## terraform 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud
 - [MNThomson/terraform-provider-dominos](https://github.com/MNThomson/terraform-provider-dominos) - 🎲🍕 The Terraform plugin for the Dominos Pizza provider
