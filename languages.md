@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [DockerSecurityPlayground/DSP](https://github.com/DockerSecurityPlayground/DSP) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -389,7 +390,7 @@
 - [jivy26/infiltra](https://github.com/jivy26/infiltra) - Open-Source CLI Penetration Testing Tool To Automate Various Processes
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / ServiceNow SecOps alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / Tines alternative.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [fr0gger/nova-framework](https://github.com/fr0gger/nova-framework) - NOVA: The Prompt Pattern Matching
