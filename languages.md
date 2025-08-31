@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [nathabonfim59/gitid](https://github.com/nathabonfim59/gitid) - A tool to stop sending work commits with your personal email
 - [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a MySQL performance monitoring tool that automates analysis, performance issue detection, configuration tuning, query optimization and schema control to save you time and improve MySQL perfo
