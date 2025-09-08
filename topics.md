@@ -171,6 +171,7 @@
 
 ## ai 
 
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 - [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS) - Slips, a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. Stratosphere Laboratory, AIC, FEL, CVUT 
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
@@ -1180,6 +1181,7 @@
 
 ## others 
 
+- [fekri600/tf-aws-drift-detection](https://github.com/fekri600/tf-aws-drift-detection) - Detects AWS infrastructure drift and automatically opens a PR with fixes using Terraform + GitHub Actions
 - [theunrealryan/devops-api-flask](https://github.com/theunrealryan/devops-api-flask) - 
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [dlegeay/Mot-de-passe](https://github.com/dlegeay/Mot-de-passe) - Code Source du site Internet - https://mot-de-passe.xyz
@@ -1450,6 +1452,7 @@
 
 ## python 
 
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [davep/braindrop](https://github.com/davep/braindrop) - A terminal-based client for raindrop.io
 - [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
