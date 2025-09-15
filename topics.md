@@ -1195,6 +1195,8 @@
 
 ## others 
 
+- [raslenraslen/MetalLB-Configuration](https://github.com/raslenraslen/MetalLB-Configuration) - 
+- [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
 - [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [fekri600/tf-aws-drift-detection](https://github.com/fekri600/tf-aws-drift-detection) - Detects AWS infrastructure drift and automatically opens a PR with fixes using Terraform + GitHub Actions
