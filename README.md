@@ -238,7 +238,7 @@
 ## automation 
 
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -457,7 +457,7 @@
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1038,13 +1038,13 @@
 ## llm 
 
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 
 ## low-code 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## mac 
@@ -1089,7 +1089,7 @@
 ## monitoring 
 
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -1121,7 +1121,7 @@
 
 ## nextjs 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## nlp 
@@ -1373,6 +1373,7 @@
 
 ## penetration-testing 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
@@ -1578,6 +1579,7 @@
 
 ## rust 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - High-performance Rust library & CLI for domain availability checks using RDAP & WHOIS, with async concurrency, bulk processing, and robust error handling.
 - [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A Blazingly Fast Minimal Serial Monitor written in Rust
@@ -1603,6 +1605,7 @@
 
 ## security 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
@@ -1616,7 +1619,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one automation platform (workflows, tables, cases) for security and IT teams. Open source Splunk SOAR / PAN XSOAR / Tines alternative.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
@@ -1658,6 +1661,7 @@
 
 ## security-tools 
 
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
