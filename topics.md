@@ -451,6 +451,7 @@
 
 ## cybersecurity 
 
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -785,6 +786,7 @@
 
 ## hacking-tools 
 
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [M507/RamiGPT](https://github.com/M507/RamiGPT) - Autonomous Privilege Escalation using AI
@@ -1195,6 +1197,7 @@
 
 ## others 
 
+- [gursimran531/Terraform-Projects](https://github.com/gursimran531/Terraform-Projects) - My Terraform project
 - [dwillowtree/diana](https://github.com/dwillowtree/diana) - Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
 - [raslenraslen/MetalLB-Configuration](https://github.com/raslenraslen/MetalLB-Configuration) - 
 - [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
@@ -1392,6 +1395,7 @@
 
 ## pentesting 
 
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
@@ -1661,6 +1665,7 @@
 
 ## security-tools 
 
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
