@@ -67,6 +67,7 @@
 
 ## C# # 
 
+- [0x101-Cyber-Security/NetLock-RMM](https://github.com/0x101-Cyber-Security/NetLock-RMM) - The open-source RMM supporting Windows, Linux & MacOS
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
@@ -385,7 +386,7 @@
 
 ## Python 
 
-- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [dwillowtree/diana](https://github.com/dwillowtree/diana) - Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
 - [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
