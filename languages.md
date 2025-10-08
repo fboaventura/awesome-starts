@@ -67,6 +67,7 @@
 
 ## C# # 
 
+- [acquiredsecurity/BeaconSim](https://github.com/acquiredsecurity/BeaconSim) - Simulate Malware activity config connections via Yaml
 - [0x101-Cyber-Security/NetLock-RMM](https://github.com/0x101-Cyber-Security/NetLock-RMM) - The open-source RMM supporting Windows, Linux & MacOS
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions.
