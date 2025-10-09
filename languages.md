@@ -571,6 +571,7 @@
 
 ## Shell 
 
+- [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue) - CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis
 - [nadmax/audit](https://github.com/nadmax/audit) - My Linux audit script
 - [raslenraslen/MetalLB-Configuration](https://github.com/raslenraslen/MetalLB-Configuration) - 
 - [raphael-attias/WiFiCyberTools](https://github.com/raphael-attias/WiFiCyberTools) - Suite complète d'outils de cybersécurité WiFi conçue pour l'analyse, la validation, la conversion et l'attaque de handshakes WiFi. Ce projet modulaire facilite les tests de pénétration et le travail a
