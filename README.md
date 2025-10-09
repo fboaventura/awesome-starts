@@ -242,7 +242,7 @@
 
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -478,7 +478,7 @@
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -827,7 +827,6 @@
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -1072,13 +1071,13 @@
 ## llm 
 
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural languag
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 
 ## low-code 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## mac 
@@ -1123,7 +1122,7 @@
 ## monitoring 
 
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -1155,7 +1154,7 @@
 
 ## nextjs 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ## nlp 
@@ -1228,6 +1227,8 @@
 
 ## others 
 
+- [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue) - CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis
+- [acquiredsecurity/BeaconSim](https://github.com/acquiredsecurity/BeaconSim) - Simulate Malware activity config connections via Yaml
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray](https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray) - End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstr
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
@@ -1662,7 +1663,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
