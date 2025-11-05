@@ -200,6 +200,7 @@
 
 ## HCL 
 
+- [varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray](https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray) - End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstr
 - [gursimran531/Terraform-Projects](https://github.com/gursimran531/Terraform-Projects) - My Terraform project
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud
@@ -295,7 +296,6 @@
 
 ## Jinja 
 
-- [varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray](https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray) - End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstr
 - [angristan/ansible-restic](https://github.com/angristan/ansible-restic) - Ansible role for restic
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [Icinga/ansible-icinga2](https://github.com/Icinga/ansible-icinga2) - Ansible Role for Icinga 2
@@ -556,7 +556,7 @@
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [scottlamb/retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
@@ -580,6 +580,7 @@
 
 ## Shell 
 
+- [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [vog01r/terraform-observability-gcp-iac](https://github.com/vog01r/terraform-observability-gcp-iac) - Ce descriptif couvre : 🏗️ Infrastructure : Terraform + GCP 🔒 Sécurité : VPC privé 🌐 Réseau : Gateway GCP, firewall 🎯 Composants : Obs, App ⚙️ Orchestration : Ansible 📚 Documentation : Guide complet
 - [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue) - CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis
