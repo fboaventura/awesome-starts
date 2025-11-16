@@ -858,6 +858,7 @@
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - The open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -1242,6 +1243,7 @@
 
 ## osint 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
@@ -1270,6 +1272,7 @@
 
 ## others 
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
@@ -1326,7 +1329,6 @@
 - [bug-it/AutoMZG](https://github.com/bug-it/AutoMZG) - 🚀 Script Auto Install  " Mysql + Zabbix + Grafana " no Ubuntu.
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [felipeluan20/OSINTKit-Brasil](https://github.com/felipeluan20/OSINTKit-Brasil) - OSINTKit Brasil é um repositório de favoritos para investigação e inteligência de fontes abertas, reunindo centenas de ferramentas, serviços e plataformas úteis — cuidadosamente categorizadas e pronta
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno provides open-source security analytics. Understand, monitor, and protect your web application from cyber threats, account takeovers, and abuse. Get started - free.
 - [lucianomarcosjr/share-knowledge](https://github.com/lucianomarcosjr/share-knowledge) - Repository to share knowledge scripts or configuration
 - [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance su
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
@@ -1561,6 +1563,7 @@
 
 ## python 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
