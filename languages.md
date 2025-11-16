@@ -109,6 +109,7 @@
 
 ## Go 
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, aco
 - [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don't fear the Reaper 👻
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -368,7 +369,7 @@
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno provides open-source security analytics. Understand, monitor, and protect your web application from cyber threats, account takeovers, and abuse. Get started - free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - The open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
 - [openITCOCKPIT/openITCOCKPIT](https://github.com/openITCOCKPIT/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
@@ -646,6 +647,7 @@
 
 ## TypeScript 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
