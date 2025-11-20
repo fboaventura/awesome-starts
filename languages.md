@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone) - Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular ArduPilot/MAVLink architecture, providing a realistic environment for hands-on drone hacking.
 - [LDO-CERT/orochi](https://github.com/LDO-CERT/orochi) - The Volatility Collaborative GUI
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [dlegeay/Mot-de-passe](https://github.com/dlegeay/Mot-de-passe) - Code Source du site Internet - https://mot-de-passe.xyz
@@ -371,7 +372,7 @@
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - The open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
 - [openITCOCKPIT/openITCOCKPIT](https://github.com/openITCOCKPIT/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
@@ -552,7 +553,7 @@
 
 ## Rust 
 
-- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
