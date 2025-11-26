@@ -109,6 +109,8 @@
 
 ## Go 
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
+- [chushuai/wscan](https://github.com/chushuai/wscan) - Wscan is a web security scanner that focuses on web security, dedicated to making web security accessible to everyone.
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, aco
@@ -128,7 +130,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a GUI for alertmanager with sounds and notifications
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [JumpsecLabs/TokenSmith](https://github.com/JumpsecLabs/TokenSmith) - TokenSmith generates Entra ID access & refresh tokens on offensive engagements. It is suitable for both covert adversary simulations and penetration tests with the tokens generated working out of the 
@@ -373,7 +375,7 @@
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics for your product. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics for your product. Understand, monitor, and protect your applications from cyber threats, account takeovers, bots and abuse.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
 - [openITCOCKPIT/openITCOCKPIT](https://github.com/openITCOCKPIT/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
