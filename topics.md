@@ -771,6 +771,7 @@
 
 ## go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
@@ -799,6 +800,7 @@
 
 ## golang 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans Software Bill of Materials (SBOMs) for security vulnerabilities
@@ -1390,7 +1392,7 @@
 - [bug-it/AutoMZG](https://github.com/bug-it/AutoMZG) - 🚀 Script Auto Install  " Mysql + Zabbix + Grafana " no Ubuntu.
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [felipeluan20/OSINTKit-Brasil](https://github.com/felipeluan20/OSINTKit-Brasil) - OSINTKit Brasil é um repositório de favoritos para investigação e inteligência de fontes abertas, reunindo centenas de ferramentas, serviços e plataformas úteis — cuidadosamente categorizadas e pronta
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics. Understand, monitor, and protect your product from cyber threats, account takeovers, bots and abuse.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open security analytics. Understand, monitor, and protect your product from cyber threats, account takeovers, bots, and abuse.
 - [lucianomarcosjr/share-knowledge](https://github.com/lucianomarcosjr/share-knowledge) - Repository to share knowledge scripts or configuration
 - [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance su
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
@@ -1603,6 +1605,7 @@
 
 ## privacy 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
