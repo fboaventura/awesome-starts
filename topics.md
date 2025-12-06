@@ -141,6 +141,7 @@
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -1702,6 +1703,11 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [sjkingo/python-freshdesk](https://github.com/sjkingo/python-freshdesk) - An API for the Freshdesk helpdesk
+
+## rag 
+
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 ## raspberry-pi 
 
