@@ -355,7 +355,6 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [rhiokim/docker-icons](https://github.com/rhiokim/docker-icons) - :whale: drawing docker icon
 - [pyguy/lpi-devops-study](https://github.com/pyguy/lpi-devops-study) - DevOps Tools Engineer - LPI Blog
-- [whatwedo/docker-base-images](https://github.com/whatwedo/docker-base-images) - Dockerfiles to all docker base images we use at whatwedo
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -411,6 +410,7 @@
 
 ## Python 
 
+- [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [fabriziosalmi/wildbox](https://github.com/fabriziosalmi/wildbox) - An open-source security platform for the community. Unified SIEM, SOAR, WAF, and more in a single, self-hosted solution.
@@ -626,6 +626,7 @@
 - [vm32/Linux-Incident-Response](https://github.com/vm32/Linux-Incident-Response) - practical toolkit for cybersecurity and IT professionals. It features a detailed Linux cheatsheet for incident response
 - [UbuntuForums/system-info](https://github.com/UbuntuForums/system-info) - 
 - [linuxserver/docker-kasm](https://github.com/linuxserver/docker-kasm) - Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
+- [whatwedo/docker-base-images](https://github.com/whatwedo/docker-base-images) - Dockerfiles to all docker base images we use at whatwedo
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
