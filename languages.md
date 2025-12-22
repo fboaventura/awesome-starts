@@ -239,6 +239,7 @@
 
 ## HTML 
 
+- [anak0ndah/HadesHunter](https://github.com/anak0ndah/HadesHunter) - This tool  was created to address a common blind spot in corporate security: chat platforms. During penetration tests and red team engagements, I noticed that Microsoft Teams conversations often conta
 - [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 - [CyberCX-STA/PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
@@ -377,6 +378,7 @@
 
 ## PHP 
 
+- [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
@@ -417,8 +419,6 @@
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
-- [anak0ndah/HadesHunter](https://github.com/anak0ndah/HadesHunter) - This tool  was created to address a common blind spot in corporate security: chat platforms. During penetration tests and red team engagements, I noticed that Microsoft Teams conversations often conta
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -605,6 +605,7 @@
 
 ## Shell 
 
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [vog01r/terraform-observability-gcp-iac](https://github.com/vog01r/terraform-observability-gcp-iac) - Ce descriptif couvre : 🏗️ Infrastructure : Terraform + GCP 🔒 Sécurité : VPC privé 🌐 Réseau : Gateway GCP, firewall 🎯 Composants : Obs, App ⚙️ Orchestration : Ansible 📚 Documentation : Guide complet
