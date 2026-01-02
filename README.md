@@ -1389,6 +1389,7 @@
 
 ## others 
 
+- [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [dtouzeau/firecrackmanager](https://github.com/dtouzeau/firecrackmanager) - FireCrackManager is a MicroVM management daemon for Firecracker.
 - [anak0ndah/HadesHunter](https://github.com/anak0ndah/HadesHunter) - This tool  was created to address a common blind spot in corporate security: chat platforms. During penetration tests and red team engagements, I noticed that Microsoft Teams conversations often conta
 - [dehydr8/elevation-of-privilege](https://github.com/dehydr8/elevation-of-privilege) - An online multiplayer version of the Elevation of Privilege (EoP) threat modeling card game
