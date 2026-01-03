@@ -417,6 +417,7 @@
 
 ## Python 
 
+- [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
 - [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) - A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
