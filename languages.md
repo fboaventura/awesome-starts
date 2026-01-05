@@ -185,7 +185,7 @@
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [keybase/bot-sshca](https://github.com/keybase/bot-sshca) - A chat bot that can manage your team's SSH accounts
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
