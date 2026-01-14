@@ -319,6 +319,7 @@
 
 ## Jupyter Notebook 
 
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
 - [loft-sh/devpod-templates](https://github.com/loft-sh/devpod-templates) - Collection of devcontainer json files.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
