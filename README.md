@@ -409,7 +409,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
@@ -836,7 +836,7 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [caas-team/GoKubeDownscaler](https://github.com/caas-team/GoKubeDownscaler) - A horizontal autoscaler for Kubernetes workloads
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
@@ -871,7 +871,6 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) - Modern web-based distributed hashcracking solution, built on hashcat
 - [caas-team/GoKubeDownscaler](https://github.com/caas-team/GoKubeDownscaler) - A horizontal autoscaler for Kubernetes workloads
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
@@ -923,7 +922,7 @@
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -937,7 +936,7 @@
 - [TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot) - DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
@@ -1053,7 +1052,6 @@
 - [JackJuly/linkook](https://github.com/JackJuly/linkook) - 🔍 An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [trimstray/sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1406,7 +1404,7 @@
 - [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [malwaredojo/loki](https://github.com/malwaredojo/loki) - Command Line Sock Puppet Creator for Investigators.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -1415,6 +1413,7 @@
 
 ## others 
 
+- [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor) - Bitor Scanning Software
 - [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
 - [xalgorithm/epyc-kube](https://github.com/xalgorithm/epyc-kube) - My Kubernetes Cluster
 - [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
@@ -1623,7 +1622,6 @@
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -1653,7 +1651,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -1913,7 +1911,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
@@ -1960,7 +1958,7 @@
 - [dbarzin/mercator](https://github.com/dbarzin/mercator) - Mapping the information system / Cartographie du système d'information
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
-- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
