@@ -1727,6 +1727,7 @@
 
 ## python 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
@@ -1875,6 +1876,7 @@
 
 ## security 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [dbarzin/deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
@@ -1942,6 +1944,7 @@
 
 ## security-tools 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
