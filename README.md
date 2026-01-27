@@ -118,6 +118,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -557,7 +558,7 @@
 
 - [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) - A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [Srinivas11789/PcapXray](https://github.com/Srinivas11789/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [Maarckz/Inventory](https://github.com/Maarckz/Inventory) - INVENTORY é um painel web que exibe dados extraídos da API do Wazuh, via SysCollector. A solução oferece acesso rápido a detalhes do sistema. Tudo é apresentado em uma interface simples para equipes d
@@ -1269,6 +1270,13 @@
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
+## malware 
+
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
+- [acquiredsecurity/BeaconSim](https://github.com/acquiredsecurity/BeaconSim) - Simulate Malware activity config connections via Yaml
+- [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool.
+- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 500+ classic/modern trojan builders including screenshots.
+
 ## markdown 
 
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
@@ -1444,7 +1452,6 @@
 - [vog01r/terraform-observability-gcp-iac](https://github.com/vog01r/terraform-observability-gcp-iac) - Ce descriptif couvre : 🏗️ Infrastructure : Terraform + GCP 🔒 Sécurité : VPC privé 🌐 Réseau : Gateway GCP, firewall 🎯 Composants : Obs, App ⚙️ Orchestration : Ansible 📚 Documentation : Guide complet
 - [allyssoncc/ansible-proxmox](https://github.com/allyssoncc/ansible-proxmox) - Ansible project designed to provision a VM on a Proxmox host using cloud-init and autoinstall.
 - [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue) - CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis
-- [acquiredsecurity/BeaconSim](https://github.com/acquiredsecurity/BeaconSim) - Simulate Malware activity config connections via Yaml
 - [varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray](https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray) - End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstr
 - [atiilla/sqlmap-ai](https://github.com/atiilla/sqlmap-ai) - This script automates SQL injection testing using SQLMap with AI-powered decision making.
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -1498,7 +1505,6 @@
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [mesopelagique/OpenIn](https://github.com/mesopelagique/OpenIn) - macro on macOS to open the current projet or method into some apps
 - [0xbinder/CVE-2024-0044](https://github.com/0xbinder/CVE-2024-0044) - CVE-2024-0044:  a "run-as any app" high-severity vulnerability affecting Android versions 12 and 13
-- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 500+ classic/modern trojan builders including screenshots.
 - [suitenumerique/planka](https://github.com/suitenumerique/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [mitre-public/open-aria](https://github.com/mitre-public/open-aria) - An open-source edition of the Aviation Risk Identification and Assessment (ARIA)
 - [Lucksi/Darkus](https://github.com/Lucksi/Darkus) - A Onion websites searcher
@@ -2200,7 +2206,7 @@
 
 ## web 
 
-- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.
+- [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
