@@ -426,6 +426,7 @@
 
 ## Python 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
@@ -635,7 +636,7 @@
 - [raphael-attias/WiFiCyberTools](https://github.com/raphael-attias/WiFiCyberTools) - Suite complète d'outils de cybersécurité WiFi conçue pour l'analyse, la validation, la conversion et l'attaque de handshakes WiFi. Ce projet modulaire facilite les tests de pénétration et le travail a
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [bug-it/AutoMZG](https://github.com/bug-it/AutoMZG) - 🚀 Script Auto Install  " Mysql + Zabbix + Grafana " no Ubuntu.
 - [M507/RamiGPT](https://github.com/M507/RamiGPT) - Autonomous Privilege Escalation using AI
@@ -695,6 +696,7 @@
 
 ## TypeScript 
 
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [DNSZLSK/gitcoach-cli](https://github.com/DNSZLSK/gitcoach-cli) - Git CLI tool with educational guidance and optional AI commit messages. Built for the GitHub Copilot CLI Challenge 2026.
 - [Richamillion/ComposeNursery](https://github.com/Richamillion/ComposeNursery) - Puts Docker Containers/Compose Stacks to sleep and wakes them back up when they're needed.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
