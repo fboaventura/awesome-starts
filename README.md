@@ -463,7 +463,7 @@
 - [nathabonfim59/gitid](https://github.com/nathabonfim59/gitid) - A tool to stop sending work commits with your personal email
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
-- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,300+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
+- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
 - [0ghny/gitconfig](https://github.com/0ghny/gitconfig) - Cli to manage multiple gitconfigs with ease
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
@@ -1209,7 +1209,7 @@
 
 ## library 
 
-- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,300+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
+- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -1902,7 +1902,7 @@
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
-- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,300+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
+- [saidutt46/domain-check](https://github.com/saidutt46/domain-check) - Fast, universal domain availability checker — 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library.
 - [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A Blazingly Fast Minimal Serial Monitor written in Rust
 - [cisagov/thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [scottlamb/retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust
