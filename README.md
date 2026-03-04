@@ -68,6 +68,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -774,6 +775,11 @@
 ## facebook 
 
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+
+## fastapi 
+
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
+- [iamgabs/cloud-run-python-template](https://github.com/iamgabs/cloud-run-python-template) - A cloud run template for python web appications using FastAPI and UV
 
 ## finance 
 
@@ -1496,7 +1502,7 @@
 - [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone) - Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular ArduPilot/MAVLink architecture, providing a realistic environment for hands-on drone hacking.
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
-- [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit
+- [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Orbis is an full spectrum automated external attack surface intelligent toolkit.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
 - [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, aco
