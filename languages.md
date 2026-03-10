@@ -489,7 +489,7 @@
 - [eremit4/favihunter](https://github.com/eremit4/favihunter) - Discover and monitor internet assets using favicon hashes across search engines.
 - [jivy26/infiltra](https://github.com/jivy26/infiltra) - Open-Source CLI Penetration Testing Tool To Automate Various Processes
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [Defendstack/DefendStack-Suite](https://github.com/Defendstack/DefendStack-Suite) - Open source defense for your entire stack
@@ -601,6 +601,7 @@
 
 ## Rust 
 
+- [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
