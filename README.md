@@ -704,7 +704,7 @@
 
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot) - DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
@@ -1497,6 +1497,7 @@
 
 ## others 
 
+- [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [dazzyddos/PrivHound](https://github.com/dazzyddos/PrivHound) - A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
@@ -1916,7 +1917,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
@@ -1927,7 +1928,7 @@
 
 ## reactjs 
 
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 
 ## rest-api 
 
