@@ -33,6 +33,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -459,6 +460,11 @@
 ## chrome 
 
 - [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
+
+## claude-code 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## cli 
 
