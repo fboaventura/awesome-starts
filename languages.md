@@ -360,6 +360,7 @@
 
 ## Others 
 
+- [leomarviegas/my-security-auditor](https://github.com/leomarviegas/my-security-auditor) - Comprehensive Claude skill for authorized security auditing — OWASP, MITRE ATT&CK, ISO 27001, SOC 2, PCI-DSS, GDPR/LGPD, SaaS multi-tenancy, red/blue/purple team ops.
 - [ar51an/unbound-dashboard](https://github.com/ar51an/unbound-dashboard) - Unbound Dashboard In Grafana With Prometheus & Loki
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
