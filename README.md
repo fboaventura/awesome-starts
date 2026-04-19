@@ -1515,6 +1515,7 @@
 
 ## others 
 
+- [leomarviegas/my-security-auditor](https://github.com/leomarviegas/my-security-auditor) - Comprehensive Claude skill for authorized security auditing — OWASP, MITRE ATT&CK, ISO 27001, SOC 2, PCI-DSS, GDPR/LGPD, SaaS multi-tenancy, red/blue/purple team ops.
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
