@@ -279,6 +279,7 @@
 
 ## Java 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -647,6 +648,7 @@
 
 ## Shell 
 
+- [lucascosm3/hdmi-auto-scale](https://github.com/lucascosm3/hdmi-auto-scale) - Automatically adjust display scaling on HDMI hotplug for GNOME on X11
 - [xalgorithm/epyc-kube](https://github.com/xalgorithm/epyc-kube) - My Kubernetes Cluster
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
@@ -719,6 +721,7 @@
 
 ## TypeScript 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [kavya-r30/ThreatShield](https://github.com/kavya-r30/ThreatShield) - ThreatShield is an AI-powered malware analysis platform that combines static and dynamic analysis and machine learning to detect and explain threats across multiple file types.
