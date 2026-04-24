@@ -224,6 +224,7 @@
 
 ## HCL 
 
+- [hcavarsan/homelab](https://github.com/hcavarsan/homelab) - 
 - [sofianedjerbi/etcdme](https://github.com/sofianedjerbi/etcdme) - High-availability Kubernetes on Hetzner Cloud. Built for resilience.
 - [varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray](https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray) - End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstr
 - [gursimran531/Terraform-Projects](https://github.com/gursimran531/Terraform-Projects) - My Terraform project
@@ -256,6 +257,7 @@
 
 ## HTML 
 
+- [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
 - [anak0ndah/HadesHunter](https://github.com/anak0ndah/HadesHunter) - This tool  was created to address a common blind spot in corporate security: chat platforms. During penetration tests and red team engagements, I noticed that Microsoft Teams conversations often conta
 - [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Orbis is an full spectrum automated external attack surface intelligent toolkit.
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
@@ -291,7 +293,6 @@
 
 ## JavaScript 
 
-- [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -665,6 +666,7 @@
 - [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
 - [bug-it/AutoMZG](https://github.com/bug-it/AutoMZG) - 🚀 Script Auto Install  " Mysql + Zabbix + Grafana " no Ubuntu.
 - [M507/RamiGPT](https://github.com/M507/RamiGPT) - Autonomous Privilege Escalation using AI
 - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
