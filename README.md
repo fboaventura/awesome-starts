@@ -1564,6 +1564,7 @@
 
 ## others 
 
+- [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV-compatible task management app.
 - [SolutionsByAbhi/multi-cloud-k8s-fleet](https://github.com/SolutionsByAbhi/multi-cloud-k8s-fleet) - 
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
 - [hcavarsan/homelab](https://github.com/hcavarsan/homelab) - 
