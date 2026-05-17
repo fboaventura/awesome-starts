@@ -665,6 +665,7 @@
 
 ## Shell 
 
+- [Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector](https://github.com/Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector) - 
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
 - [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an ultra-lightweight Host-based Security Orchestrator for Linux.
 - [yannkistenmacker/mayday-idp](https://github.com/yannkistenmacker/mayday-idp) - Platform Engineering lab project focused on GitOps and developer self-service.
@@ -805,7 +806,7 @@
 
 ## Vue 
 
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 
 ## YARA 
