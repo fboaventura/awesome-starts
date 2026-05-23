@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
@@ -123,7 +124,7 @@
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
 - [joselitofilho/aws-terraform-generator](https://github.com/joselitofilho/aws-terraform-generator) - The AWS Terraform Generator is a powerful tool designed to simplify and streamline the process of creating Terraform configurations for AWS infrastructure. With this tool, you can quickly generate Ter
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
-- [Use-Tusk/fence](https://github.com/Use-Tusk/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
+- [jy-tan/fence](https://github.com/jy-tan/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
 - [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
 - [dtouzeau/firecrackmanager](https://github.com/dtouzeau/firecrackmanager) - FireCrackManager is a MicroVM management daemon for Firecracker.
@@ -450,6 +451,8 @@
 
 ## Python 
 
+- [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
+- [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) - Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
