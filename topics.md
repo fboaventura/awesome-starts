@@ -203,6 +203,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xcode](#xcode)
 - [zsh](#zsh)
 
 ## agent 
@@ -251,6 +252,7 @@
 
 ## ai-agents 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) - Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -486,6 +488,7 @@
 
 ## claude-code 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -688,6 +691,7 @@
 
 ## developer-tools 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
@@ -1183,6 +1187,7 @@
 
 ## ios 
 
+- [a7t-ai/slipway](https://github.com/a7t-ai/slipway) - Self-publishing toolkit for iOS apps: workflows, Fastlane lanes, and scripts that turn a vanilla Xcode project into one that ships releases on its own.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## iot 
@@ -1355,6 +1360,7 @@
 
 ## llm 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
@@ -1429,6 +1435,7 @@
 
 ## mcp 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1623,7 +1630,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Orbis is an full spectrum automated external attack surface intelligent toolkit.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges. No more jumping between countless platforms, everyt
 - [diillson/aws-finops-dashboard-go](https://github.com/diillson/aws-finops-dashboard-go) - Um painel de custos e recursos da AWS baseado em terminal, desenvolvido com Go e arquitetura hexagonal. Ele fornece uma visão geral dos gastos da AWS por conta, detalhamentos por nível de serviço, aco
 - [vog01r/terraform-observability-gcp-iac](https://github.com/vog01r/terraform-observability-gcp-iac) - Ce descriptif couvre : 🏗️ Infrastructure : Terraform + GCP 🔒 Sécurité : VPC privé 🌐 Réseau : Gateway GCP, firewall 🎯 Composants : Obs, App ⚙️ Orchestration : Ansible 📚 Documentation : Guide complet
 - [allyssoncc/ansible-proxmox](https://github.com/allyssoncc/ansible-proxmox) - Ansible project designed to provision a VM on a Proxmox host using cloud-init and autoinstall.
@@ -1902,6 +1908,7 @@
 
 ## productivity 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
@@ -2156,6 +2163,7 @@
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
+- [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges.
 - [Maarckz/Inventory](https://github.com/Maarckz/Inventory) - INVENTORY é um painel web que exibe dados extraídos da API do Wazuh, via SysCollector. A solução oferece acesso rápido a detalhes do sistema. Tudo é apresentado em uma interface simples para equipes d
 - [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans Software Bill of Materials (SBOMs) for security vulnerabilities
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
@@ -2475,6 +2483,10 @@
 ## wordpress 
 
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
+
+## xcode 
+
+- [a7t-ai/slipway](https://github.com/a7t-ai/slipway) - Self-publishing toolkit for iOS apps: workflows, Fastlane lanes, and scripts that turn a vanilla Xcode project into one that ships releases on its own.
 
 ## zsh 
 
