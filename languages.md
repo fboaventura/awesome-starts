@@ -670,7 +670,7 @@
 
 - [Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector](https://github.com/Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector) - 
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - 🐧 SysWarden is an Enterprise-grade Default-Deny Host Intrusion Prevention System (HIPS) designed for critical Linux infrastructure.
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System (HIDS - HIPS) designed for critical Linux infrastructure.
 - [yannkistenmacker/mayday-idp](https://github.com/yannkistenmacker/mayday-idp) - Platform Engineering lab project focused on GitOps and developer self-service.
 - [lucascosm3/hdmi-auto-scale](https://github.com/lucascosm3/hdmi-auto-scale) - Automatically adjust display scaling on HDMI hotplug for GNOME on X11
 - [xalgorithm/epyc-kube](https://github.com/xalgorithm/epyc-kube) - My Kubernetes Cluster
