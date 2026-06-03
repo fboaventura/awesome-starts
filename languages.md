@@ -411,8 +411,8 @@
 
 ## PHP 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [sourcentis/deming](https://github.com/sourcentis/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
-- [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
 - [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security framework. Event tracking, threat detection, and risk scoring for any application.
@@ -669,7 +669,7 @@
 
 - [Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector](https://github.com/Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector) - 
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System (HIDS - HIPS) designed for critical Linux infrastructure.
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System designed for critical Linux infrastructure.
 - [yannkistenmacker/mayday-idp](https://github.com/yannkistenmacker/mayday-idp) - Platform Engineering lab project focused on GitOps and developer self-service.
 - [lucascosm3/hdmi-auto-scale](https://github.com/lucascosm3/hdmi-auto-scale) - Automatically adjust display scaling on HDMI hotplug for GNOME on X11
 - [xalgorithm/epyc-kube](https://github.com/xalgorithm/epyc-kube) - My Kubernetes Cluster
