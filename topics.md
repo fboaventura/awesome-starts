@@ -232,6 +232,7 @@
 
 ## ai 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -713,6 +714,7 @@
 
 ## devops 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
 - [Normation/rudder](https://github.com/Normation/rudder) - Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
@@ -1327,7 +1329,7 @@
 ## linux 
 
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System (HIDS - HIPS) designed for critical Linux infrastructure.
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System designed for critical Linux infrastructure.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -1367,6 +1369,7 @@
 
 ## llm 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -1442,6 +1445,7 @@
 
 ## mcp 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
@@ -1463,6 +1467,7 @@
 
 ## monitoring 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
@@ -1553,6 +1558,7 @@
 
 ## openai 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build ag
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1651,7 +1657,6 @@
 - [gursimran531/Terraform-Projects](https://github.com/gursimran531/Terraform-Projects) - My Terraform project
 - [dwillowtree/diana](https://github.com/dwillowtree/diana) - Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
 - [raslenraslen/MetalLB-Configuration](https://github.com/raslenraslen/MetalLB-Configuration) - 
-- [GemGeorge/SniperPhish](https://github.com/GemGeorge/SniperPhish) - SniperPhish - The Web-Email Spear Phishing Toolkit
 - [fekri600/tf-aws-drift-detection](https://github.com/fekri600/tf-aws-drift-detection) - Detects AWS infrastructure drift and automatically opens a PR with fixes using Terraform + GitHub Actions
 - [theunrealryan/devops-api-flask](https://github.com/theunrealryan/devops-api-flask) - 
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
@@ -1877,6 +1882,7 @@
 
 ## php 
 
+- [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
@@ -2167,7 +2173,7 @@
 ## security-tools 
 
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System (HIDS - HIPS) designed for critical Linux infrastructure.
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is an open-source Enterprise-grade Host Intrusion Detection & Prevention System designed for critical Linux infrastructure.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
