@@ -1600,6 +1600,7 @@
 
 ## others 
 
+- [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
 - [fellipepinheiro/captiveportal](https://github.com/fellipepinheiro/captiveportal) - 
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss) - Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
@@ -1624,7 +1625,7 @@
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [golgoth31/sreportal](https://github.com/golgoth31/sreportal) - 
 - [kavya-r30/ThreatShield](https://github.com/kavya-r30/ThreatShield) - ThreatShield is an AI-powered malware analysis platform that combines static and dynamic analysis and machine learning to detect and explain threats across multiple file types.
-- [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul
+- [swamp-club/swamp](https://github.com/swamp-club/swamp) - Stinemates, Watson, Adam, Mahir, Paul
 - [keeb/proxmox-manager](https://github.com/keeb/proxmox-manager) - 
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [joselitofilho/aws-terraform-generator](https://github.com/joselitofilho/aws-terraform-generator) - The AWS Terraform Generator is a powerful tool designed to simplify and streamline the process of creating Terraform configurations for AWS infrastructure. With this tool, you can quickly generate Ter
