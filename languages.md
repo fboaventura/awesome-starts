@@ -113,6 +113,7 @@
 
 ## Go 
 
+- [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your GitLab CI/CD pipelines and repos
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
@@ -755,7 +756,7 @@
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [kavya-r30/ThreatShield](https://github.com/kavya-r30/ThreatShield) - ThreatShield is an AI-powered malware analysis platform that combines static and dynamic analysis and machine learning to detect and explain threats across multiple file types.
-- [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul
+- [swamp-club/swamp](https://github.com/swamp-club/swamp) - Stinemates, Watson, Adam, Mahir, Paul
 - [keeb/proxmox-manager](https://github.com/keeb/proxmox-manager) - 
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [DNSZLSK/gitcoach-cli](https://github.com/DNSZLSK/gitcoach-cli) - Git CLI tool with educational guidance and optional AI commit messages. Built for the GitHub Copilot CLI Challenge 2026.
