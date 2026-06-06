@@ -683,7 +683,7 @@
 - [raslenraslen/MetalLB-Configuration](https://github.com/raslenraslen/MetalLB-Configuration) - 
 - [raphael-attias/WiFiCyberTools](https://github.com/raphael-attias/WiFiCyberTools) - Suite complète d'outils de cybersécurité WiFi conçue pour l'analyse, la validation, la conversion et l'attaque de handshakes WiFi. Ce projet modulaire facilite les tests de pénétration et le travail a
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
-- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
+- [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X) - A mock exams for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pre-configured clusters.
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
