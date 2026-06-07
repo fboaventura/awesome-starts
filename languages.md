@@ -375,7 +375,6 @@
 - [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [allyssoncc/ansible-proxmox](https://github.com/allyssoncc/ansible-proxmox) - Ansible project designed to provision a VM on a Proxmox host using cloud-init and autoinstall.
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [doxx/doxx.net](https://github.com/doxx/doxx.net) - Freedom of speech and privacy platform
 - [hagaram/mailcow-grafana-dashboard](https://github.com/hagaram/mailcow-grafana-dashboard) - Mailcow grafana dashboard
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -487,6 +486,7 @@
 - [fekri600/tf-aws-drift-detection](https://github.com/fekri600/tf-aws-drift-detection) - Detects AWS infrastructure drift and automatically opens a PR with fixes using Terraform + GitHub Actions
 - [theunrealryan/devops-api-flask](https://github.com/theunrealryan/devops-api-flask) - 
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [davep/braindrop](https://github.com/davep/braindrop) - A terminal-based client for raindrop.io
 - [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
