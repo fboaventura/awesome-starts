@@ -106,7 +106,7 @@
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
 - [docker-archive/minecraft](https://github.com/docker-archive/minecraft) - Minecraft Dockerfile used in Kitematic
-- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, WordPress, Drupal, Magento, CodeIgniter, Yii, Lumen, Phalcon, CakePHP or any PHP project with 70+ pre-configured services: Nginx, Apa
 - [JasonRivers/Docker-Nagios](https://github.com/JasonRivers/Docker-Nagios) - Docker image for Nagios
 - [aerogear/dockerfiles](https://github.com/aerogear/dockerfiles) - Docker image for AeroGear project
 - [tozd/docker-base](https://github.com/tozd/docker-base) - Base Docker image. Read-only mirror of https://gitlab.com/tozd/docker/base
