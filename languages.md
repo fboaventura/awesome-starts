@@ -501,7 +501,7 @@
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [davep/braindrop](https://github.com/davep/braindrop) - A terminal-based client for raindrop.io
 - [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build ag
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source GenBI: let your AI agents generate, deploy, and govern dashboards from any database, grounded in a context layer they can trust.
 - [moabukar/k8s-in-a-box](https://github.com/moabukar/k8s-in-a-box) - 
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [LiuYuancheng/Railway_Control-OT-Cyber-Attack](https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack) - We want to build a city simulator OT(Operational Technology) system with two railways and create two kinds of HMI software (Engineer monitoring HMI and the Lecturer training HMI) to control the system
