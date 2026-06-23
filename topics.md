@@ -1649,6 +1649,7 @@
 
 ## others 
 
+- [Fortiphyd/GRFICSv3](https://github.com/Fortiphyd/GRFICSv3) - GRFICSv3 is a FREE and open source OT security lab with realistic networking and a 3D process simulation for training and learning ICS security
 - [K3lgy/lyra](https://github.com/K3lgy/lyra) - Lyra est un outil open source de Cyber Threat Intelligence défensive. Il surveille automatiquement les mentions, fuites de credentials et expositions d'infrastructure concernant votre organisation sur
 - [lukaszgasior/weather20](https://github.com/lukaszgasior/weather20) - Weather station project for Raspberry Pi. Displays local DHT sensor readings, Airly air quality data and a weather forecast for the upcoming hours and the next day on a 7-inch touchscreen.
 - [fellipepinheiro/captiveportal](https://github.com/fellipepinheiro/captiveportal) - 
