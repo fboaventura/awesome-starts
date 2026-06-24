@@ -45,6 +45,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YARA](#yara)
+- [templ](#templ)
 
 ## 4D 
 
@@ -158,7 +159,6 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [JumpsecLabs/TokenSmith](https://github.com/JumpsecLabs/TokenSmith) - TokenSmith generates Entra ID access & refresh tokens on offensive engagements. It is suitable for both covert adversary simulations and penetration tests with the tokens generated working out of the 
@@ -400,6 +400,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [fboaventura/homelab](https://github.com/fboaventura/homelab) - 
 - [rhiokim/docker-icons](https://github.com/rhiokim/docker-icons) - :whale: drawing docker icon
 - [pyguy/lpi-devops-study](https://github.com/pyguy/lpi-devops-study) - DevOps Tools Engineer - LPI Blog
@@ -461,6 +462,7 @@
 
 ## Python 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [K3lgy/lyra](https://github.com/K3lgy/lyra) - Lyra est un outil open source de Cyber Threat Intelligence défensive. Il surveille automatiquement les mentions, fuites de credentials et expositions d'infrastructure concernant votre organisation sur
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
 - [lukaszgasior/weather20](https://github.com/lukaszgasior/weather20) - Weather station project for Raspberry Pi. Displays local DHT sensor readings, Airly air quality data and a weather forecast for the upcoming hours and the next day on a 7-inch touchscreen.
@@ -807,7 +809,6 @@
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [joshcanhelp/budget-cli](https://github.com/joshcanhelp/budget-cli) - Command-line budgeting software in TypeScript
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
@@ -831,6 +832,10 @@
 ## YARA 
 
 - [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool.
+
+## templ 
+
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 
 
 ## License
