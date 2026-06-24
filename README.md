@@ -264,6 +264,7 @@
 
 ## ai-agents 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) - Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.
@@ -504,6 +505,7 @@
 
 ## claude-code 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -637,6 +639,7 @@
 
 ## cybersecurity 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
@@ -1405,6 +1408,7 @@
 
 ## llm 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1481,6 +1485,7 @@
 
 ## mcp 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1608,6 +1613,7 @@
 
 ## osint 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
@@ -1871,6 +1877,7 @@
 
 ## penetration-testing 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
@@ -2171,6 +2178,7 @@
 
 ## security 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
