@@ -123,7 +123,7 @@
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
-- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your CI/CD pipelines and repos
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
 - [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Active Defense and HIDS/HIPS Orchestration for Critical Linux Infrastructure
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
@@ -302,6 +302,7 @@
 
 ## JavaScript 
 
+- [igoruehara/spec-driven](https://github.com/igoruehara/spec-driven) - 
 - [fabgcruz/bagre](https://github.com/fabgcruz/bagre) - Bagre — Open Source IP Address Management. IPAM leve e moderno para gerenciar, organizar e monitorar todos os IPs da sua rede.
 - [rezarahiminia/worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Grab your football API data for FIFA World Cup 2026 competition!
 - [error311/vimmonsters-academy](https://github.com/error311/vimmonsters-academy) - A retro browser game that teaches Vim motions through drills, exploration, and creature battles.
@@ -640,6 +641,7 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
@@ -657,6 +659,7 @@
 - [cisagov/thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [Sonar-team/Sonar_desktop_app](https://github.com/Sonar-team/Sonar_desktop_app) - Captures network traffic app made in Rust.
 - [scottlamb/retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -761,6 +764,7 @@
 
 ## TypeScript 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss) - Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
@@ -828,7 +832,6 @@
 
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
-- [Sonar-team/Sonar_desktop_app](https://github.com/Sonar-team/Sonar_desktop_app) - Captures network traffic app made in Rust.
 
 ## YARA 
 
