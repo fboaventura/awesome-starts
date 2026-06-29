@@ -276,6 +276,7 @@
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
 - [sudo-flgr/OSINTKit-Brasil](https://github.com/sudo-flgr/OSINTKit-Brasil) - OSINTKit Brasil é um repositório de favoritos para investigação e inteligência de fontes abertas, reunindo centenas de ferramentas, serviços e plataformas úteis — cuidadosamente categorizadas e pronta
+- [duty1g/subcat](https://github.com/duty1g/subcat) - Lightning-fast subdomain discovery tool for security professionals and bug bounty hunters.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [amiechen/codrops-scribbler](https://github.com/amiechen/codrops-scribbler) - A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
@@ -464,6 +465,7 @@
 
 ## Python 
 
+- [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [K3lgy/lyra](https://github.com/K3lgy/lyra) - Lyra est un outil open source de Cyber Threat Intelligence défensive. Il surveille automatiquement les mentions, fuites de credentials et expositions d'infrastructure concernant votre organisation sur
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
@@ -549,7 +551,6 @@
 - [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) - Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
 - [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
-- [duty1g/subcat](https://github.com/duty1g/subcat) - Lightning-fast passive subdomain discovery tool for security professionals and bug bounty hunters.
 - [JackJuly/linkook](https://github.com/JackJuly/linkook) - 🔍 An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
@@ -810,7 +811,7 @@
 - [mehmetcanfarsak/country-codes-flags-phone-codes](https://github.com/mehmetcanfarsak/country-codes-flags-phone-codes) - 🏳 Easily access country codes, flags and phone codes
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
-- [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API
+- [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Modern Jira REST API client for JavaScript & TypeScript — Jira Cloud API v2/v3, Agile & Service Desk. Type-safe, tree-shakable, works in Node.js and browsers (ESM/CJS).
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [joshcanhelp/budget-cli](https://github.com/joshcanhelp/budget-cli) - Command-line budgeting software in TypeScript
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
