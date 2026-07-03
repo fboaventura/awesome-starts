@@ -265,6 +265,7 @@
 - [cloudposse/terraform-aws-rds-cluster](https://github.com/cloudposse/terraform-aws-rds-cluster) - Terraform module to provision an RDS Aurora cluster for MySQL or Postgres
 - [cloudposse/terraform-aws-ssm-patch-manager](https://github.com/cloudposse/terraform-aws-ssm-patch-manager) - Terraform module to provision AWS SSM Patch Manager maintenance window tasks, targets, patch baseline, patch groups and an s3 bucket for storing patch task logs
 - [marcosborges/terraform-aws-loadtest-distribuited](https://github.com/marcosborges/terraform-aws-loadtest-distribuited) - This module proposes a simple and uncomplicated way to run your load tests created with JMeter, TaurusBzt or Locust on AWS as IaaS.
+- [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 
 ## HTML 
 
@@ -737,7 +738,6 @@
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) - 
 - [mlmargotto/DecSecOpsTools](https://github.com/mlmargotto/DecSecOpsTools) - 
-- [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [IntellexApps/blcheck](https://github.com/IntellexApps/blcheck) - Test a mail server against blacklists.
 - [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
 - [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived.
