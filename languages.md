@@ -45,7 +45,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YARA](#yara)
-- [templ](#templ)
 
 ## 4D 
 
@@ -161,6 +160,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [JumpsecLabs/TokenSmith](https://github.com/JumpsecLabs/TokenSmith) - TokenSmith generates Entra ID access & refresh tokens on offensive engagements. It is suitable for both covert adversary simulations and penetration tests with the tokens generated working out of the 
@@ -273,7 +273,6 @@
 - [anak0ndah/HadesHunter](https://github.com/anak0ndah/HadesHunter) - This tool  was created to address a common blind spot in corporate security: chat platforms. During penetration tests and red team engagements, I noticed that Microsoft Teams conversations often conta
 - [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0) - Orbis is an full spectrum automated external attack surface intelligent toolkit.
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
-- [CyberCX-STA/PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
@@ -518,6 +517,7 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [LiuYuancheng/Railway_Control-OT-Cyber-Attack](https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack) - We want to build a city simulator OT(Operational Technology) system with two railways and create two kinds of HMI software (Engineer monitoring HMI and the Lecturer training HMI) to control the system
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
+- [CyberCX-STA/PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
 - [chm0dx/creepyCrawler](https://github.com/chm0dx/creepyCrawler) - OSINT tool to crawl a site and extract useful recon info.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [infobyte/emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
@@ -646,6 +646,7 @@
 
 ## Rust 
 
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 950+ rules.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
@@ -759,6 +760,7 @@
 
 ## Swift 
 
+- [macadmins/pique](https://github.com/macadmins/pique) - A MacAdmin-focused QuickLook plugin with GitOps in mind
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
@@ -840,10 +842,6 @@
 ## YARA 
 
 - [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool.
-
-## templ 
-
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 
 
 ## License
