@@ -275,7 +275,7 @@
 
 ## ai-agents 
 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -537,6 +537,7 @@
 
 ## cli 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS — Rust TUI + CLI, single static binary, six-stage commit gate, no agent on the cluster.
@@ -663,7 +664,7 @@
 
 ## cybersecurity 
 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
@@ -758,6 +759,7 @@
 
 ## devops 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
@@ -991,6 +993,7 @@
 
 ## go 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -1026,6 +1029,7 @@
 
 ## golang 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
@@ -1401,6 +1405,7 @@
 
 ## linux 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
@@ -1444,7 +1449,7 @@
 
 ## llm 
 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
@@ -1481,6 +1486,7 @@
 
 ## macos 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -1922,7 +1928,7 @@
 
 ## penetration-testing 
 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
@@ -1947,7 +1953,7 @@
 
 ## pentesting 
 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 - [Vyntral/god-eye](https://github.com/Vyntral/god-eye) - AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
@@ -2456,6 +2462,7 @@
 
 ## terminal 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -2527,6 +2534,7 @@
 
 ## tui 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 - [0xjuanma/golazo](https://github.com/0xjuanma/golazo) - The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
@@ -2637,6 +2645,7 @@
 
 ## windows 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis) - PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
