@@ -74,6 +74,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [esp32](#esp32)
+- [express](#express)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -899,6 +900,10 @@
 
 - [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
 
+## express 
+
+- [coolstartnow/isms-builder](https://github.com/coolstartnow/isms-builder) - Self-hosted Information Security Management System — ISO 27001, NIS2, GDPR/DSGVO, BSI IT-Grundschutz
+
 ## facebook 
 
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -1628,6 +1633,7 @@
 
 ## nodejs 
 
+- [coolstartnow/isms-builder](https://github.com/coolstartnow/isms-builder) - Self-hosted Information Security Management System — ISO 27001, NIS2, GDPR/DSGVO, BSI IT-Grundschutz
 - [roccomuso/kickthemout](https://github.com/roccomuso/kickthemout) - :bomb: Kick devices off your network by performing an ARP Spoof attack with Node.js.
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [rezarahiminia/worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Grab your football API data for FIFA World Cup 2026 competition!
@@ -2247,6 +2253,7 @@
 
 ## security 
 
+- [coolstartnow/isms-builder](https://github.com/coolstartnow/isms-builder) - Self-hosted Information Security Management System — ISO 27001, NIS2, GDPR/DSGVO, BSI IT-Grundschutz
 - [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 1,000+ rules.
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
 - [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
@@ -2381,6 +2388,7 @@
 
 ## self-hosted 
 
+- [coolstartnow/isms-builder](https://github.com/coolstartnow/isms-builder) - Self-hosted Information Security Management System — ISO 27001, NIS2, GDPR/DSGVO, BSI IT-Grundschutz
 - [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
