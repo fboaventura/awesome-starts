@@ -388,6 +388,8 @@
 
 ## Others 
 
+- [foxj77/claude-code-skills](https://github.com/foxj77/claude-code-skills) - Claude Code skills for Kubernetes platform engineering, GitOps, and Helm chart management
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [felipesoaresti/Cloudflare-Metallb-NginxIngress-Controler](https://github.com/felipesoaresti/Cloudflare-Metallb-NginxIngress-Controler) - Aprenda a expor seu homelab atrás de CGNAT sem gastar nada! Tutorial completo usando Cloudflare Tunnel, MetalLB e NGINX Ingress Controller. Solução funcional para acessar seus serviços de qualquer lug
@@ -434,6 +436,7 @@
 
 ## PHP 
 
+- [Monzphere/zabbix-module-docker](https://github.com/Monzphere/zabbix-module-docker) - Docker Monitoring frontend module for Zabbix 8.0 — nodes overview, container metrics, native UI integration. Developed by MonZphere.
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [sourcentis/deming](https://github.com/sourcentis/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
