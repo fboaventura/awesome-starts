@@ -1717,6 +1717,7 @@
 
 ## others 
 
+- [SanzarRehman/HTML2PDF](https://github.com/SanzarRehman/HTML2PDF) - World's fastest, leanest open source parallel HTML-to-PDF engine for serious server workloads.
 - [foxj77/claude-code-skills](https://github.com/foxj77/claude-code-skills) - Claude Code skills for Kubernetes platform engineering, GitOps, and Helm chart management
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
