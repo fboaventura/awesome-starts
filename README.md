@@ -238,7 +238,7 @@
 
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 
 ## agents 
 
@@ -280,6 +280,7 @@
 
 ## ai-agents 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
@@ -467,7 +468,7 @@
 
 ## bioinformatics 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 
 ## bootstrap 
 
@@ -524,16 +525,18 @@
 
 ## claude 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [iagogfe/excalidraw-icons-mcp](https://github.com/iagogfe/excalidraw-icons-mcp) - Excalidraw MCP server with real vendor-icon search & insertion (AWS/Azure/GCP/OCI/Kubernetes) for AI-built architecture diagrams — live canvas, 31 tools
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 
 ## claude-code 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -720,7 +723,7 @@
 
 ## data-analysis 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 
 ## data-structures 
 
@@ -1537,6 +1540,7 @@
 
 ## mcp 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [iagogfe/excalidraw-icons-mcp](https://github.com/iagogfe/excalidraw-icons-mcp) - Excalidraw MCP server with real vendor-icon search & insertion (AWS/Azure/GCP/OCI/Kubernetes) for AI-built architecture diagrams — live canvas, 31 tools
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
 - [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop) - Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.
@@ -1669,6 +1673,7 @@
 
 ## openai 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [Monzphere/zbxmcp](https://github.com/Monzphere/zbxmcp) - Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
@@ -1717,6 +1722,7 @@
 
 ## others 
 
+- [jnuyens/modulejail](https://github.com/jnuyens/modulejail) - Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use.
 - [SanzarRehman/HTML2PDF](https://github.com/SanzarRehman/HTML2PDF) - World's fastest, leanest open source parallel HTML-to-PDF engine for serious server workloads.
 - [foxj77/claude-code-skills](https://github.com/foxj77/claude-code-skills) - Claude Code skills for Kubernetes platform engineering, GitOps, and Helm chart management
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -1733,7 +1739,7 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector](https://github.com/Vigneshwari-08/Server_Log-Analyzer-Intrusion-Detector) - 
-- [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV-compatible task management app.
+- [chiriapp/chiri](https://github.com/chiriapp/chiri) - 🍃 Cross-platform CalDAV task management app.
 - [SolutionsByAbhi/multi-cloud-k8s-fleet](https://github.com/SolutionsByAbhi/multi-cloud-k8s-fleet) - 
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
 - [hcavarsan/homelab](https://github.com/hcavarsan/homelab) - 
@@ -2434,6 +2440,7 @@
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [nadmax/audit](https://github.com/nadmax/audit) - Audit script for Linux systems
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
