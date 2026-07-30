@@ -243,6 +243,7 @@
 ## agents 
 
 - [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
@@ -334,6 +335,7 @@
 ## api 
 
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
+- [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Modern Jira REST API client for JavaScript & TypeScript — Jira Cloud API v2/v3, Agile & Service Desk. Type-safe, tree-shakable, works in Node.js and browsers (ESM/CJS).
 - [alpinweis/pycircleci](https://github.com/alpinweis/pycircleci) - Python client for CircleCI API
@@ -680,6 +682,7 @@
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
 - [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis) - PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
 - [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) - A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [duggytuxy/Data-Shield_IPv4_Blocklist](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) - Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster y
 - [srixivas/PcapXray](https://github.com/srixivas/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
@@ -704,6 +707,7 @@
 - [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot) - DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a
+- [yogsec/One-Liner-OSINT](https://github.com/yogsec/One-Liner-OSINT) - One Liner OSINT is a collection of powerful one-liner commands for Open-Source Intelligence (OSINT) gathering.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
@@ -1700,6 +1704,7 @@
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 - [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - 🔍 PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data. Built with Python and modern Qt.
 - [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) - Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
+- [yogsec/One-Liner-OSINT](https://github.com/yogsec/One-Liner-OSINT) - One Liner OSINT is a collection of powerful one-liner commands for Open-Source Intelligence (OSINT) gathering.
 - [JackJuly/linkook](https://github.com/JackJuly/linkook) - 🔍 An OSINT tool for discovering linked social accounts and associated emails across multiple platforms using a single username.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux and 
@@ -1715,6 +1720,7 @@
 - [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) - Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
 - [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
+- [yogsec/One-Liner-OSINT](https://github.com/yogsec/One-Liner-OSINT) - One Liner OSINT is a collection of powerful one-liner commands for Open-Source Intelligence (OSINT) gathering.
 
 ## others 
 
@@ -1951,7 +1957,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
 - [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng) - The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [urbanadventurer/urlcrazy](https://github.com/urbanadventurer/urlcrazy) - Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
@@ -1964,6 +1970,7 @@
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Wayback Machine OSINT Framework
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -1975,7 +1982,7 @@
 - [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [six2dez/burp-ai-agent](https://github.com/six2dez/burp-ai-agent) - Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
@@ -2214,6 +2221,7 @@
 ## rest-api 
 
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
+- [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Modern Jira REST API client for JavaScript & TypeScript — Jira Cloud API v2/v3, Agile & Service Desk. Type-safe, tree-shakable, works in Node.js and browsers (ESM/CJS).
 - [charlesabarnes/SPFtoolbox](https://github.com/charlesabarnes/SPFtoolbox) - SPFtoolbox is a Javascript and PHP app to look up DNS records such as SPF, MX, Whois, and more
@@ -2278,6 +2286,7 @@
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [sourcentis/deming](https://github.com/sourcentis/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [srixivas/PcapXray](https://github.com/srixivas/PcapXray) - :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 - [fabriziosalmi/wildbox](https://github.com/fabriziosalmi/wildbox) - An open-source security platform for the community. Unified SIEM, SOAR, WAF, and more in a single, self-hosted solution.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -2353,7 +2362,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [fabriziosalmi/wildbox](https://github.com/fabriziosalmi/wildbox) - An open-source security platform for the community. Unified SIEM, SOAR, WAF, and more in a single, self-hosted solution.
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges.
