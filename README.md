@@ -1658,6 +1658,7 @@
 
 ## npm 
 
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [safedep/pmg](https://github.com/safedep/pmg) - PMG protects developers, AI agents from malicious open source packages using proxy, sandbox and SafeDep's threat intelligence feed.
 - [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [mehmetcanfarsak/country-codes-flags-phone-codes](https://github.com/mehmetcanfarsak/country-codes-flags-phone-codes) - 🏳 Easily access country codes, flags and phone codes
@@ -2352,6 +2353,7 @@
 
 ## security-tools 
 
+- [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
 - [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the 
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
