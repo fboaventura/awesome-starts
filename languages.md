@@ -313,7 +313,7 @@
 - [roccomuso/kickthemout](https://github.com/roccomuso/kickthemout) - :bomb: Kick devices off your network by performing an ARP Spoof attack with Node.js.
 - [igoruehara/spec-driven](https://github.com/igoruehara/spec-driven) - 
 - [fabgcruz/bagre](https://github.com/fabgcruz/bagre) - Bagre — Open Source IP Address Management. IPAM leve e moderno para gerenciar, organizar e monitorar todos os IPs da sua rede.
-- [rezarahiminia/worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Grab your football API data for FIFA World Cup 2026 competition!
+- [rezarahiminia/worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Free open-source football API and live score center for Premier League, LaLiga, fixtures, results, standings and match events.
 - [error311/vimmonsters-academy](https://github.com/error311/vimmonsters-academy) - A retro browser game that teaches Vim motions through drills, exploration, and creature battles.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis) - PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
@@ -497,8 +497,8 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
-- [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your estate
+- [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a full-stack network verification, troubleshooting, and monitoring suite for wired and Wi-Fi, running on a handheld pocket computer — Raspberry Pi Zero 2W and up across OSI L1–L7, as individ
 - [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) - A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
