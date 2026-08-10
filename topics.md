@@ -232,7 +232,7 @@
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [google-gemini/genai-processors](https://github.com/google-gemini/genai-processors) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## agent-skills 
@@ -864,7 +864,7 @@
 - [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS) - Slips, a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. Stratosphere Laboratory, AIC, FEL, CVUT 
 - [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1448,7 +1448,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [ddddddO/packemon](https://github.com/ddddddO/packemon) - Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [s-r-e-e-r-a-j/ZeroTrace](https://github.com/s-r-e-e-r-a-j/ZeroTrace) - ZeroTrace is a powerful ethical hacking tool for anonymization, routing all your system network traffic through the Tor network, making it very hard to track your online activity, IP address, and loca
@@ -1743,6 +1743,7 @@
 
 ## others 
 
+- [JORGEDL26/argo](https://github.com/JORGEDL26/argo) - 
 - [igfurlan/claude-dashboard](https://github.com/igfurlan/claude-dashboard) - Ansible playbook that stands up a Grafana dashboard for Claude Code token consumption, via OpenTelemetry into an existing Prometheus/Grafana stack on Kubernetes
 - [jnuyens/modulejail](https://github.com/jnuyens/modulejail) - Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use.
 - [SanzarRehman/HTML2PDF](https://github.com/SanzarRehman/HTML2PDF) - World's fastest, leanest open source parallel HTML-to-PDF engine for serious server workloads.
