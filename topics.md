@@ -1743,6 +1743,7 @@
 
 ## others 
 
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
 - [JORGEDL26/argo](https://github.com/JORGEDL26/argo) - 
 - [igfurlan/claude-dashboard](https://github.com/igfurlan/claude-dashboard) - Ansible playbook that stands up a Grafana dashboard for Claude Code token consumption, via OpenTelemetry into an existing Prometheus/Grafana stack on Kubernetes
 - [jnuyens/modulejail](https://github.com/jnuyens/modulejail) - Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use.
