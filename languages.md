@@ -314,7 +314,7 @@
 - [roccomuso/kickthemout](https://github.com/roccomuso/kickthemout) - :bomb: Kick devices off your network by performing an ARP Spoof attack with Node.js.
 - [igoruehara/spec-driven](https://github.com/igoruehara/spec-driven) - 
 - [fabgcruz/bagre](https://github.com/fabgcruz/bagre) - Bagre — Open Source IP Address Management. IPAM leve e moderno para gerenciar, organizar e monitorar todos os IPs da sua rede.
-- [rezarahiminia/worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Free open-source football API and live score center for Premier League, LaLiga, fixtures, results, standings and match events.
+- [rezarahiminia/livescoreFootball](https://github.com/rezarahiminia/livescoreFootball) - Free open-source football API and live score center for Premier League, LaLiga, fixtures, results, standings and match events.
 - [error311/vimmonsters-academy](https://github.com/error311/vimmonsters-academy) - A retro browser game that teaches Vim motions through drills, exploration, and creature battles.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis) - PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
@@ -779,6 +779,7 @@
 
 ## Swift 
 
+- [ben-z/findphone](https://github.com/ben-z/findphone) - Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available
 - [macadmins/pique](https://github.com/macadmins/pique) - A MacAdmin-focused QuickLook plugin with GitOps in mind
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
