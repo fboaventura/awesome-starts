@@ -1448,7 +1448,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Active Defense and HIDS/HIPS/WAAP Out-of-Band Orchestration for Critical Linux Infrastructure
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is a host-local security orchestrator combining authoritative nftables policy, HIDS/HIPS telemetry, bounded threat intelligence, out-of-band WAAP log analysis, authenticated high availabilit
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -1753,6 +1753,7 @@
 
 ## others 
 
+- [0xKayala/A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Application and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
 - [ben-z/findphone](https://github.com/ben-z/findphone) - Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [JORGEDL26/argo](https://github.com/JORGEDL26/argo) - 
@@ -2398,7 +2399,7 @@
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action rec
 - [HaxL0p4/L0p4Map](https://github.com/HaxL0p4/L0p4Map) - Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local netw
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Active Defense and HIDS/HIPS/WAAP Out-of-Band Orchestration for Critical Linux Infrastructure
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is a host-local security orchestrator combining authoritative nftables policy, HIDS/HIPS telemetry, bounded threat intelligence, out-of-band WAAP log analysis, authenticated high availabilit
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
