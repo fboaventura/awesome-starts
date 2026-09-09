@@ -43,7 +43,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 - [YARA](#yara)
 
 ## 4D 
@@ -116,6 +115,7 @@
 
 ## Go 
 
+- [vvrnv/argo9s](https://github.com/vvrnv/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time
 - [stephrobert/feint](https://github.com/stephrobert/feint) - A local emulator of the Scaleway, Outscale and Exoscale APIs. Their own official CLIs drive it end to end, Terraform and OpenTofu drive two of the three — no cloud account, no cloud credentials, nothi
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [vigolium/vigolium](https://github.com/vigolium/vigolium) - Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
@@ -331,9 +331,9 @@
 - [dlegeay/Mot-de-passe](https://github.com/dlegeay/Mot-de-passe) - Code Source du site Internet - https://mot-de-passe.xyz
 - [DockerSecurityPlayground/DSP](https://github.com/DockerSecurityPlayground/DSP) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
+- [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for Empire.
 - [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit) - Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
 - [codergautam/worldguessr](https://github.com/codergautam/worldguessr) - Free & Open source version of Geoguessr
@@ -528,7 +528,6 @@
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [davep/braindrop](https://github.com/davep/braindrop) - A terminal-based client for raindrop.io
-- [eremit4/Akamaru](https://github.com/eremit4/Akamaru) - Sniffing out well-known threat groups
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
 - [moabukar/k8s-in-a-box](https://github.com/moabukar/k8s-in-a-box) - 
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -548,6 +547,7 @@
 - [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Damn Vulnerable MCP Server
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [eremit4/favihunter](https://github.com/eremit4/favihunter) - Discover and monitor internet assets using favicon hashes across search engines.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [jivy26/infiltra](https://github.com/jivy26/infiltra) - Open-Source CLI Penetration Testing Tool To Automate Various Processes
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
@@ -859,10 +859,6 @@
 
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
-
-## Vue 
-
-- [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 
 ## YARA 
 
