@@ -35,7 +35,7 @@
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SaltStack](#saltstack)
+- [Salt](#salt)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -704,7 +704,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 
-## SaltStack 
+## Salt 
 
 - [tozd/salt](https://github.com/tozd/salt) - Base states for configuring servers via Salt. Read-only mirror of https://gitlab.com/tozd/salt
 
