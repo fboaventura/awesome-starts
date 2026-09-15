@@ -611,7 +611,7 @@
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [telekom-mms/ansible-collection-icinga-director](https://github.com/telekom-mms/ansible-collection-icinga-director) - An Ansible collection that contains modules to change objects in Icinga 2 using the director API.
@@ -664,6 +664,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
 - [fioletoven/b4n](https://github.com/fioletoven/b4n) - Terminal user interface (TUI) for Kubernetes API written in Rust
 - [dmux/EchoBrain](https://github.com/dmux/EchoBrain) - 
