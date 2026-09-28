@@ -130,7 +130,7 @@
 - [michealch/apt2distroless](https://github.com/michealch/apt2distroless) - apt2distroless helps you turn an apt package into a distroless image: it copies a package's complete transitive runtime closure into a target dir
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
-- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - SysWarden is a host-local security orchestrator combining authoritative nftables policy, HIDS/HIPS telemetry, bounded threat intelligence, out-of-band WAAP log analysis, authenticated high availabilit
+- [duggytuxy/syswarden](https://github.com/duggytuxy/syswarden) - Linux defense. Your host. Your rules. Host-local Linux defense with auditable, fail-closed enforcement.
 - [allisson/secrets](https://github.com/allisson/secrets) - A lightweight secrets manager with envelope encryption, transit encryption, API auth, and audit logs.
 - [kenn-io/msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 - [golgoth31/sreportal](https://github.com/golgoth31/sreportal) - 
@@ -479,6 +479,7 @@
 
 ## Python 
 
+- [docker/skills](https://github.com/docker/skills) - A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [zpol/rf-hunter](https://github.com/zpol/rf-hunter) - RF Hunter is an RF security research tool to enumerate and scan for vulnerabilities around you using a HackRF device + GPS module
 - [opensible/opensible](https://github.com/opensible/opensible) - An open source GitOps control plane for OpenTofu & Ansible - provision, configure and deploy across cloud, on-prem and hybrid, self-hosted and forever free.
@@ -677,7 +678,7 @@
 - [HackingLZ/gibson](https://github.com/HackingLZ/gibson) - Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN loo
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, PDF, and Markdown viewer
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
