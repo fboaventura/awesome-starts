@@ -502,7 +502,7 @@
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
 - [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a full-stack network verification, troubleshooting, and monitoring suite for wired and Wi-Fi, running on a handheld pocket computer — Raspberry Pi Zero 2W and up across OSI L1–L7, as individ
 - [stratosphereips/stratocyberlab](https://github.com/stratosphereips/stratocyberlab) - A Cyber Range to learn hacking (both attacking & defending) techniques locally in your computer
@@ -638,7 +638,7 @@
 - [massakai/pyoxr](https://github.com/massakai/pyoxr) - Open Exchange Rates API for python
 - [tozny/rancher-lets-encrypt](https://github.com/tozny/rancher-lets-encrypt) - Automatically create and manage certificates in Rancher using Let's Encrypt webroot verification via a minimal service
 - [datasets/country-codes](https://github.com/datasets/country-codes) - Comprehensive country code information, including ISO 3166 codes, ITU dialing codes, ISO 4217 currency codes, and many others
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [autokey/autokey-python2](https://github.com/autokey/autokey-python2) - Legacy Python 2 version of AutoKey, the desktop automation utility for Linux and X11.
 - [ustream/openduty](https://github.com/ustream/openduty) - An open source Alerting and incident escalation tool
