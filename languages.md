@@ -672,7 +672,7 @@
 - [fioletoven/b4n](https://github.com/fioletoven/b4n) - Terminal user interface (TUI) for Kubernetes API written in Rust
 - [dmux/EchoBrain](https://github.com/dmux/EchoBrain) - 
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. Hundreds of rules.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets + live validation. Map blast radius. Revoke fast. Use the CLI or embed in Rust and Python.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [fabriziosalmi/proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & PBS: Rust TUI + CLI, single static binary, eight-stage commit gate, no agent on the cluster.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
