@@ -170,7 +170,7 @@
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [JumpsecLabs/TokenSmith](https://github.com/JumpsecLabs/TokenSmith) - TokenSmith generates Entra ID access & refresh tokens on offensive engagements. It is suitable for both covert adversary simulations and penetration tests with the tokens generated working out of the 
-- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Manage AWS ECS in Terminal(~k9s for ECS) 🐱
 - [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
@@ -321,7 +321,6 @@
 - [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis) - PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app.
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
-- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [dehydr8/elevation-of-privilege](https://github.com/dehydr8/elevation-of-privilege) - An online multiplayer version of the Elevation of Privilege (EoP) threat modeling card game
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
@@ -502,6 +501,7 @@
 - [mrdaemon/exosphere](https://github.com/mrdaemon/exosphere) - A simple CLI and TUI driven application that offers patch reporting for remote unix systems, written in Python
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
+- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [tsautier/RoXX](https://github.com/tsautier/RoXX) - RoXX (Radius Open eXtensible eXchange). Modern Python-based RADIUS Authentication Proxy for Linux (Docker/Systemd). Supports TOTP, Azure AD, LDAP & inWebo.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
@@ -727,7 +727,7 @@
 - [xalgorithm/epyc-kube](https://github.com/xalgorithm/epyc-kube) - My Kubernetes Cluster
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [WhiteMuush/sandevistan](https://github.com/WhiteMuush/sandevistan) - Welcome cyberpsycho, SANDEVISTAN is your ultimate hub a single space where every reconnaissance, exploitation, and post-exploitation tool converges.
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [vog01r/terraform-observability-gcp-iac](https://github.com/vog01r/terraform-observability-gcp-iac) - Ce descriptif couvre : 🏗️ Infrastructure : Terraform + GCP 🔒 Sécurité : VPC privé 🌐 Réseau : Gateway GCP, firewall 🎯 Composants : Obs, App ⚙️ Orchestration : Ansible 📚 Documentation : Guide complet
 - [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue) - CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis
 - [nadmax/audit](https://github.com/nadmax/audit) - Audit script for Linux systems
