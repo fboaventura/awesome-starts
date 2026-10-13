@@ -1543,6 +1543,7 @@
 
 ## mac 
 
+- [gyptazy/akeyboardswitcher](https://github.com/gyptazy/akeyboardswitcher) - MacOS menubar application to quickly switch between Apple Magic Keyboard, Magic Mouse and Magic Trackpad on multiple Macs
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
@@ -1555,6 +1556,7 @@
 
 ## macos 
 
+- [gyptazy/akeyboardswitcher](https://github.com/gyptazy/akeyboardswitcher) - MacOS menubar application to quickly switch between Apple Magic Keyboard, Magic Mouse and Magic Trackpad on multiple Macs
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
