@@ -574,6 +574,7 @@
 
 ## cli 
 
+- [kanywst/wtfi2](https://github.com/kanywst/wtfi2) - Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies — and how to fix it. Rust + ratatui TUI.
 - [heymaikol/network-doctor](https://github.com/heymaikol/network-doctor) - Network Doctor is a cross-platform network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy, and path-MTU checks into one plain-English diagnosis.
 - [vvrnv/argo9s](https://github.com/vvrnv/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -1556,6 +1557,7 @@
 
 ## macos 
 
+- [kanywst/wtfi2](https://github.com/kanywst/wtfi2) - Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies — and how to fix it. Rust + ratatui TUI.
 - [gyptazy/akeyboardswitcher](https://github.com/gyptazy/akeyboardswitcher) - MacOS menubar application to quickly switch between Apple Magic Keyboard, Magic Mouse and Magic Trackpad on multiple Macs
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
@@ -2206,7 +2208,7 @@
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [osantana/staty](https://github.com/osantana/staty) - A complete reference of HTTP response status code and response handling
 - [sjkingo/python-freshdesk](https://github.com/sjkingo/python-freshdesk) - An API for the Freshdesk helpdesk
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
@@ -2310,6 +2312,7 @@
 
 ## rust 
 
+- [kanywst/wtfi2](https://github.com/kanywst/wtfi2) - Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies — and how to fix it. Rust + ratatui TUI.
 - [galeone/bacup](https://github.com/galeone/bacup) - An easy-to-use backup tool designed for servers.
 - [fioletoven/b4n](https://github.com/fioletoven/b4n) - Terminal user interface (TUI) for Kubernetes API written in Rust
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
@@ -2658,6 +2661,7 @@
 
 ## tui 
 
+- [kanywst/wtfi2](https://github.com/kanywst/wtfi2) - Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies — and how to fix it. Rust + ratatui TUI.
 - [heymaikol/network-doctor](https://github.com/heymaikol/network-doctor) - Network Doctor is a cross-platform network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy, and path-MTU checks into one plain-English diagnosis.
 - [vvrnv/argo9s](https://github.com/vvrnv/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.
@@ -2695,7 +2699,6 @@
 ## twitter 
 
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
 
