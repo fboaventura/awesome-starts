@@ -404,9 +404,7 @@
 - [doxx/doxx.net](https://github.com/doxx/doxx.net) - Freedom of speech and privacy platform
 - [hagaram/mailcow-grafana-dashboard](https://github.com/hagaram/mailcow-grafana-dashboard) - Mailcow grafana dashboard
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [yogsec/One-Liner-OSINT](https://github.com/yogsec/One-Liner-OSINT) - One Liner OSINT is a collection of powerful one-liner commands for Open-Source Intelligence (OSINT) gathering.
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
-- [yogsec/API-Pentesting-Tools](https://github.com/yogsec/API-Pentesting-Tools) - API Pentesting Tools are specialized security tools used to test and analyze the security of Application Programming Interfaces (APIs).
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
@@ -442,7 +440,7 @@
 - [sourcentis/deming](https://github.com/sourcentis/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat : A Damn Vulnerable AWS Infrastructure
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [sourcentis/mercator](https://github.com/sourcentis/mercator) - Mapping the information system / Cartographie du système d'information
 - [Krook9d/PurpleLab](https://github.com/Krook9d/PurpleLab) - PurpleLab is an efficient and readily deployable lab solution, providing a swift setup for cybersecurity professionals to test detection rules and undertake various security tasks, all accessible thro
