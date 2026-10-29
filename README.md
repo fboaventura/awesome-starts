@@ -970,7 +970,7 @@
 
 ## facebook 
 
-- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [meta/memlab](https://github.com/meta/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 
 ## fastapi 
 
@@ -1357,7 +1357,7 @@
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [rezarahiminia/livescoreFootball](https://github.com/rezarahiminia/livescoreFootball) - Free open-source football API and live score center for Premier League, LaLiga, fixtures, results, standings and match events.
 - [error311/vimmonsters-academy](https://github.com/error311/vimmonsters-academy) - A retro browser game that teaches Vim motions through drills, exploration, and creature battles.
-- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [meta/memlab](https://github.com/meta/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
@@ -1723,7 +1723,7 @@
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [DNSZLSK/gitcoach-cli](https://github.com/DNSZLSK/gitcoach-cli) - Git CLI tool with educational guidance and optional AI commit messages. Built for the GitHub Copilot CLI Challenge 2026.
-- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [meta/memlab](https://github.com/meta/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
