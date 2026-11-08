@@ -567,7 +567,7 @@
 - [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
-- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map 840+ social media identities across the web
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them 
 - [rohitcoder/hawk-eye](https://github.com/rohitcoder/hawk-eye) - A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
@@ -859,7 +859,7 @@
 - [mehmetcanfarsak/country-codes-flags-phone-codes](https://github.com/mehmetcanfarsak/country-codes-flags-phone-codes) - 🏳 Easily access country codes, flags and phone codes
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [baires/shouldideploy](https://github.com/baires/shouldideploy) - Source of shouldideploy.today
-- [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Modern Jira REST API client for JavaScript & TypeScript — Jira Cloud API v2/v3, Agile & Service Desk. Type-safe, tree-shakable, works in Node.js and browsers (ESM/CJS).
+- [MrRefactoring/jira.js](https://github.com/MrRefactoring/jira.js) - Type-safe Jira REST API client for JavaScript and TypeScript. Supports Jira Cloud, Data Center, Agile, Service Management, Assets, Teams and organization APIs. Runtime response validation, tree-shakab
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [joshcanhelp/budget-cli](https://github.com/joshcanhelp/budget-cli) - Command-line budgeting software in TypeScript
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
