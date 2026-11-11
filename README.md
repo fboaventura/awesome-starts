@@ -1841,6 +1841,7 @@
 
 ## others 
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [Gabriel-temstet/Infra-ANSIBLE](https://github.com/Gabriel-temstet/Infra-ANSIBLE) - NOVASEC est une infrastructure fictive de cybersécurité entièrement déployée avec Ansible. Elle intègre un SOC complet, des outils SIEM/XDR, DevSecOps, DFIR, CTI et Red Team, une gestion centralisée d
 - [Gabriel-temstet/Justice-League-HOMELAB-CYBER](https://github.com/Gabriel-temstet/Justice-League-HOMELAB-CYBER) - Justice League Homelab : plateforme SOC complète sous Docker, intégrant IA locale, threat intelligence, automatisation, surveillance cyber, bug bounty et console web. Compatible Linux et macOS Apple S
 - [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS.
