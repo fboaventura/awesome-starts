@@ -472,6 +472,7 @@
 
 ## PowerShell 
 
+- [g4bri-3l3/HostBadger](https://github.com/g4bri-3l3/HostBadger) - Windows host hardening auditor and remediation tool in PowerShell: CIS, DISA STIG, Essential Eight checks, reversible fixes, optional AI analysis
 - [dazzyddos/PrivHound](https://github.com/dazzyddos/PrivHound) - A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths.
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
@@ -480,6 +481,8 @@
 
 ## Python 
 
+- [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) - Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
+- [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.
 - [ra1nb0rn/search_vulns](https://github.com/ra1nb0rn/search_vulns) - A modular tool to search for known vulnerabilities, exploits and more across various data sources
 - [OSINT-Experts-Society/Consensus-OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) - 🔎 Username, email & phone OSINT — 9,700+ lookup checks from 19 projects, with profile enrichment, bulk searches, evidence graphs and expert-reviewed updates.
 - [Gabriel-temstet/Justice-League-HOMELAB-CYBER](https://github.com/Gabriel-temstet/Justice-League-HOMELAB-CYBER) - Justice League Homelab : plateforme SOC complète sous Docker, intégrant IA locale, threat intelligence, automatisation, surveillance cyber, bug bounty et console web. Compatible Linux et macOS Apple S
@@ -812,6 +815,7 @@
 
 ## TypeScript 
 
+- [CyberSecurity91/redforge](https://github.com/CyberSecurity91/redforge) - IT-TOOLS but red.
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
