@@ -1799,6 +1799,8 @@
 
 ## osint 
 
+- [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) - Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
+- [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.
 - [OSINT-Experts-Society/Consensus-OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) - 🔎 Username, email & phone OSINT — 9,700+ lookup checks from 19 projects, with profile enrichment, bulk searches, evidence graphs and expert-reviewed updates.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Refloow/Refloow-Geo-Forensics](https://github.com/Refloow/Refloow-Geo-Forensics) - ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
@@ -1841,6 +1843,8 @@
 
 ## others 
 
+- [CyberSecurity91/redforge](https://github.com/CyberSecurity91/redforge) - IT-TOOLS but red.
+- [g4bri-3l3/HostBadger](https://github.com/g4bri-3l3/HostBadger) - Windows host hardening auditor and remediation tool in PowerShell: CIS, DISA STIG, Essential Eight checks, reversible fixes, optional AI analysis
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [Gabriel-temstet/Infra-ANSIBLE](https://github.com/Gabriel-temstet/Infra-ANSIBLE) - NOVASEC est une infrastructure fictive de cybersécurité entièrement déployée avec Ansible. Elle intègre un SOC complet, des outils SIEM/XDR, DevSecOps, DFIR, CTI et Red Team, une gestion centralisée d
 - [Gabriel-temstet/Justice-League-HOMELAB-CYBER](https://github.com/Gabriel-temstet/Justice-League-HOMELAB-CYBER) - Justice League Homelab : plateforme SOC complète sous Docker, intégrant IA locale, threat intelligence, automatisation, surveillance cyber, bug bounty et console web. Compatible Linux et macOS Apple S
@@ -2188,6 +2192,7 @@
 
 ## privacy 
 
+- [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.
 - [aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) - Real-time network monitor + outbound firewall — see & block every connection. Privacy-first, local-first, Rust fleet agent, SIEM exports, 8 languages. / Moniteur réseau temps réel + pare-feu sortant, 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -2410,6 +2415,7 @@
 
 ## security 
 
+- [ra1nb0rn/search_vulns](https://github.com/ra1nb0rn/search_vulns) - A modular tool to search for known vulnerabilities, exploits and more across various data sources
 - [danoszz/penthera](https://github.com/danoszz/penthera) - Offline cyber security agent for your apps and AI coding tools. Open R&D: measured in public, improved every release.
 - [vigolium/vigolium](https://github.com/vigolium/vigolium) - Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision
 - [coolstartnow/isms-builder](https://github.com/coolstartnow/isms-builder) - Self-hosted Information Security Management System — ISO 27001, NIS2, GDPR/DSGVO, BSI IT-Grundschutz
@@ -2496,6 +2502,7 @@
 
 ## security-tools 
 
+- [ra1nb0rn/search_vulns](https://github.com/ra1nb0rn/search_vulns) - A modular tool to search for known vulnerabilities, exploits and more across various data sources
 - [activecm/rita](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js.
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
