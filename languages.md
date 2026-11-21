@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [geopetro/anglerphish](https://github.com/geopetro/anglerphish) - Anglerphish - A feature-rich Gophish fork
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [heymaikol/network-doctor](https://github.com/heymaikol/network-doctor) - Network Doctor is a cross-platform network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy, and path-MTU checks into one plain-English diagnosis.
 - [vvrnv/argo9s](https://github.com/vvrnv/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time
@@ -393,7 +394,6 @@
 
 ## Others 
 
-- [tuladhar/my-claude-skills-as-devops-engineer](https://github.com/tuladhar/my-claude-skills-as-devops-engineer) - Claude skills I use every day as a DevOps engineer. Free to use, more coming.
 - [franz-josef-kaiser/awesome-decoupled-cms](https://github.com/franz-josef-kaiser/awesome-decoupled-cms) - Awesome list of Headless CMS solutions. Hosted and self-hosted. Open source as well.
 - [0xKayala/A-to-Z-Vulnerabilities](https://github.com/0xKayala/A-to-Z-Vulnerabilities) - This is a Kind of Dictionary which contains all kinds of Web Application and Network Security Vulnerabilities and other security concepts in an Alphabetical Order
 - [foxj77/claude-code-skills](https://github.com/foxj77/claude-code-skills) - Claude Code skills for Kubernetes platform engineering, GitOps, and Helm chart management
@@ -483,6 +483,7 @@
 
 ## Python 
 
+- [tuladhar/my-claude-skills-as-devops-engineer](https://github.com/tuladhar/my-claude-skills-as-devops-engineer) - Claude skills I use every day as a DevOps engineer. Free to use, more coming.
 - [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) - Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
 - [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.
 - [ra1nb0rn/search_vulns](https://github.com/ra1nb0rn/search_vulns) - A modular tool to search for known vulnerabilities, exploits and more across various data sources
@@ -567,7 +568,7 @@
 - [jivy26/infiltra](https://github.com/jivy26/infiltra) - Open-Source CLI Penetration Testing Tool To Automate Various Processes
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.
 - [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source agentic security automation platform.
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [Defendstack/DefendStack-Suite](https://github.com/Defendstack/DefendStack-Suite) - Open source defense for your entire stack
@@ -789,7 +790,7 @@
 - [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived.
 - [jorgicio/jorgicio-gentoo-overlay](https://github.com/jorgicio/jorgicio-gentoo-overlay) - Gentoo Overlay made by Jorgicio.
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [jjethwa/icinga2-slack-notification](https://github.com/jjethwa/icinga2-slack-notification) - 
 - [armstrong/puppet-celery](https://github.com/armstrong/puppet-celery) - Celery in your Puppets
@@ -818,6 +819,7 @@
 
 ## TypeScript 
 
+- [WeftCut/WeftCut](https://github.com/WeftCut/WeftCut) - Free, open-source AI video editor for macOS, Windows and Linux — drive the whole timeline from any MCP client.
 - [CyberSecurity91/redforge](https://github.com/CyberSecurity91/redforge) - IT-TOOLS but red.
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
