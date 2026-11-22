@@ -302,7 +302,7 @@
 ## Java 
 
 - [davimatosms/Arara-voice](https://github.com/davimatosms/Arara-voice) - Ditado por voz grátis, open source e 100% local para português do Brasil (Windows e macOS). Whisper no seu computador: aperte o atalho, fale e o texto é colado no cursor. Free offline voice typing / s
-- [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep pa
+- [NotYuSheng/TracePcap](https://github.com/NotYuSheng/TracePcap) - Open-source, self-hosted PCAP analyzer for network forensics: device discovery, network maps, Suricata and nDPI threat detection, change monitoring, and local-LLM incident stories. Runs fully offline.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
@@ -498,7 +498,7 @@
 - [zpol/rf-hunter](https://github.com/zpol/rf-hunter) - RF Hunter is an RF security research tool to enumerate and scan for vulnerabilities around you using a HackRF device + GPS module
 - [opensible/opensible](https://github.com/opensible/opensible) - An open source GitOps control plane for OpenTofu & Ansible - provision, configure and deploy across cloud, on-prem and hybrid, self-hosted and forever free.
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa) - AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions & skills before you clone — plus an always-on AI attack-signature scanner and native Rust 
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gate
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10), with an evidence-checked attack-path grap
 - [mushorg/conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [Nour833/StegoForge](https://github.com/Nour833/StegoForge) - The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payl
