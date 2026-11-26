@@ -490,7 +490,7 @@
 - [ra1nb0rn/search_vulns](https://github.com/ra1nb0rn/search_vulns) - A modular tool to search for known vulnerabilities, exploits and more across various data sources
 - [OSINT-Experts-Society/Consensus-OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) - 🔎 Username, email & phone OSINT — 9,700+ lookup checks from 19 projects, with profile enrichment, bulk searches, evidence graphs and expert-reviewed updates.
 - [Gabriel-temstet/Justice-League-HOMELAB-CYBER](https://github.com/Gabriel-temstet/Justice-League-HOMELAB-CYBER) - Justice League Homelab : plateforme SOC complète sous Docker, intégrant IA locale, threat intelligence, automatisation, surveillance cyber, bug bounty et console web. Compatible Linux et macOS Apple S
-- [aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) - Real-time network monitor + outbound firewall — see & block every connection. Privacy-first, local-first, Rust fleet agent, SIEM exports, 8 languages. / Moniteur réseau temps réel + pare-feu sortant, 
+- [aixisstudio/Wiretap](https://github.com/aixisstudio/Wiretap) - The firewall that knows whether YOU were there when data left. Presence-correlated exfiltration detection, flow DNA, kill-chain correlation, tamper-evident forensics — local-first, 8 languages. / Le p
 - [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [banaxou/dark-sherlock](https://github.com/banaxou/dark-sherlock) - csint tool username | dark sherlock 1.1
