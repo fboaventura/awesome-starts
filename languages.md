@@ -821,6 +821,7 @@
 
 ## TypeScript 
 
+- [CybeDefend/cybedefend](https://github.com/CybeDefend/cybedefend) - Agentic ASPM, the open source Snyk alternative. A full security audit in one command
 - [WeftCut/WeftCut](https://github.com/WeftCut/WeftCut) - Free, open-source AI video editor for macOS, Windows and Linux — drive the whole timeline from any MCP client.
 - [CyberSecurity91/redforge](https://github.com/CyberSecurity91/redforge) - IT-TOOLS but red.
 - [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
