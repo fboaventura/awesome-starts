@@ -854,6 +854,7 @@
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [theunrealryan/devops-api-flask](https://github.com/theunrealryan/devops-api-flask) - Self-hosted DevOps lab: Flask API with CI/CD on Gitea Actions, rolling updates on Docker Swarm, Traefik with TLS and Prometheus, Loki and Grafana
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [terrateamio/openinfraquote](https://github.com/terrateamio/openinfraquote) - Fast, open-source tool for estimating infrastructure costs from Terraform plans and state files
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
@@ -1942,7 +1943,6 @@
 - [gursimran531/Terraform-Projects](https://github.com/gursimran531/Terraform-Projects) - My Terraform project
 - [dwillowtree/diana](https://github.com/dwillowtree/diana) - Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
 - [fekri600/tf-aws-drift-detection](https://github.com/fekri600/tf-aws-drift-detection) - Detects AWS infrastructure drift and automatically opens a PR with fixes using Terraform + GitHub Actions
-- [theunrealryan/devops-api-flask](https://github.com/theunrealryan/devops-api-flask) - 
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [dlegeay/Mot-de-passe](https://github.com/dlegeay/Mot-de-passe) - Code Source du site Internet - https://mot-de-passe.xyz
 - [doxx/doxx.net](https://github.com/doxx/doxx.net) - Freedom of speech and privacy platform
